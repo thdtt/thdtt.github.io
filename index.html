@@ -1,25 +1,22 @@
 ---
-<!-- layout: default -->
+layout: default
 author-name: Thanh Dat
 title: Home Page
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
 <div class="container">
-    <h1>{{ page.title }}</h1>
-    <h2>Name: {{ page.author-name }}</h2>
-    <h2>Email: thanhdat.vnu@gmail.com</h2>
+    <img class="avatar" src="assets/pictures/IMG_0283.PNG" alt=""></img>
+    <h1>{{page.author-name}}</h1>
+    <div class="info">
+        <p>Hi, I am {{page.author-name}}, a student from University of Engineering and Technology (UET-VNU)</p>
+        <p>My Major: Computer Science</p>
+        <table>
+            <em class="fa fa-github"></em>
+            <a href="https://github.com/thanhhdattt"> My Github</a> </br> </br>
+            <em class="fa fa-facebook" ></em>
+            <a href="https://facebook.com/thanhdat.vnu">My Facebook</a> </br> </br>
+            <em class="fa fa-google" style="font-size:24px"></em>
+            <a> Contact: thanhdat.vnu@gmail.com</a>
+        </table>
+    </div>
 </div>

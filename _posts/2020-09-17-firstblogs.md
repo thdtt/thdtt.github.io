@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2020-09-17 10:10:30 AM +0700
 author: Pham Minh Thanh
 ---
 A banana is an edible fruit – botanically a berry – produced by several kinds

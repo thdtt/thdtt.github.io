@@ -21,19 +21,19 @@
 <meta property="og:url" content="http://localhost:4000/about.html" />
 <meta property="og:site_name" content="Bun Dau Mam Tom" />
 <script type="application/ld+json">
-{"headline":"About","description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","@type":"WebPage","url":"http://localhost:4000/about.html","@context":"https://schema.org"}</script>
+{"description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","url":"http://localhost:4000/about.html","@type":"WebPage","headline":"About","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
   <body>
-    <nav class="navbar navbar-expand-sm   navbar-light bg-light">
+    <nav class="navbar navbar-expand-sm   navbar-light bg-light" id="navbar">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-      <!-- <li class="nav-item dropdown dmenu">
+      <li class="nav-item dropdown dmenu">
         <a class="nav-link dropdown-toggle" href="/index.html" id="navbardrop" data-toggle="dropdown">
           Home
         </a>
@@ -42,10 +42,10 @@
           <a class="dropdown-item" href="/index.html">Thịt Chó Rựa Mận</a>
           <a class="dropdown-item" href="/index.html">Cháo Lòng Tiết Canh</a>
         </div>
-      </li> -->
-      <li class="nav-item">
-        <a class="nav-link" href="/index.html">Home</a>
       </li>
+      <!-- <li class="nav-item">
+        <a class="nav-link" href="/index.html">Home</a>
+      </li> -->
       <li class="nav-item">
         <a class="nav-link" href="/about.html">About me</a>
       </li>
@@ -53,13 +53,13 @@
         <a class="nav-link" href="/blog.html">Blogs</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/staff.html">Staff</a>
+        <a class="nav-link" href="/contact.html">Contact</a>
       </li>
     </ul>
     <div class="social-part">
-      <i class="fa fa-facebook" aria-hidden="true"></i>
-      <i class="fa fa-twitter" aria-hidden="true"></i>
-      <i class="fa fa-instagram" aria-hidden="true"></i>
+      <a href="https://facebook.com/thanhdat.vnu" class="fa fa-facebook" aria-hidden="true"></a>
+      <a href="https://github.com/thanhhdattt" class="fa fa-github" aria-hidden="true"></a>
+      <a href="/#" class="fa fa-instagram" aria-hidden="true"></a>
     </div>
   </div>
 </nav>
@@ -75,15 +75,39 @@ $('.navbar-light .dmenu').hover(function () {
         $(this).find('.sm-menu').first().stop(true, true).slideUp(105)
     });
 });
+var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+  var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+    document.getElementById("navbar").style.top = "0";
+  } else {
+    document.getElementById("navbar").style.top = "-75px";
+  }
+  prevScrollpos = currentScrollPos;
+}
 </script>
 
-    <div class="about-container">
+    <div class="sub-container">
     <h2 class="title">Personal Information</h2>
-    <p class="para">Hi there, I am Thanh Dat from UET-VNU. Wish you a good day</p>
-    <h2 class="title">Contact</h2>
-    <p class="para">Contact me if you dare</p>
-    <a href="https://github.com/thanhhdattt" class="fa fa-facebook"></a>
-    <a href="https://facebook.com/thanhdat.vnu" class="fa fa-github"></a>
+    <p class="para">Hi there, I am Thanh Dat from UET-VNU<span><br></span>Nice to see you in my site. Have a good day 💖</p>
 </div>
+    <!-- <div class="footer">
+    <p>Footer</p>
+</div> -->
+
+<!-- Footer -->
+<footer class="page-footer font-small cyan darken-3">
+
+  <!-- Footer Elements -->
+  <div class="footer">
+
+  <!-- Copyright -->
+  <div>© 2020 Copyright:
+    <a href="https://github.com/thanhhdattt"> thanhhdattt</a>
+  </div>
+  <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
   </body>
 </html>

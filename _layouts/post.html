@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
+<h1 class="title" style=" margin-left: 10px;padding: 10px; font-style: oblique; font-weight: bold;">{{ page.title }}</h1>
 
-<p>
+<p style="margin-left: 180px;">
   {{ page.date | date_to_string }}
   {% assign author = site.authors | where: 'short_name', page.author | first %}
   {% if author %}
@@ -11,4 +11,6 @@ layout: default
   {% endif %}
 </p>
 
-{{ content }}
+<blockquote style="margin: 20px;">{{ content }}</blockquote>
+
+<h2 class="author" style="font-style: oblique; font-size: medium; padding: 20px;">- {{ page.author }} -</h2>

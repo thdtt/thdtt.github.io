@@ -1,3 +1,10 @@
+---
+layout: post
+title: Nói với một em gái
+author: Đinh Vũ Hoàng Nguyên
+date: 2020/09/20 22:10:10
+---
+
 Nói với một em gái
 
 Gần đây có em gái đọc blog laothayboigia, nói: “Em đọc blog thầy, hết các entry, thú lắm, cười lắm, nhưng rồi chẳng thấy nói lên điều gì cả!...”

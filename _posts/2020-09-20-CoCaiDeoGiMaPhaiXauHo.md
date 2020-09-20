@@ -102,4 +102,3 @@ Một lát thị lại tiếp: Mà sao người ta lại có thể hồn nhiên 
 Mình vốn nổi tiếng sợ vợ, thế mà lúc ấy bỗng nhiên máu trên mặt bốc pừng pừng, mình trợn mắt, băm bổ:
 
 - Có cái đéo gì mà phải xấu hổ! Có cái đéo gì mà phải xấu hổ...! Hử? Hử? Hử?...
-

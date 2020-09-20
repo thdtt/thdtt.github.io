@@ -7,7 +7,7 @@ title: Blog
   </br>
   <h1 class="title">Latest Posts</h1>
   <ul>
-    {% for post in site.posts %}
+    {% for post in site.posts reversed limit:2000%}
       <li>
         <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
         {{ post.excerpt }}

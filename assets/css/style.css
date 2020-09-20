@@ -34,7 +34,7 @@
 }
 
 .container{
-  background: url("assets\pictures\img.jpg");
+  background: url("assets\\pictures\\img.jpg");
   border-radius: 20px;
   opacity: 1;
   animation: fade 2s linear;

@@ -1,4 +1,466 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-20T22:14:27+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bun Dau Mam Tom</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Y[1] và những gã</title><link href="http://localhost:4000/2020/09/20/YVaNhungGa.html" rel="alternate" type="text/html" title="Y[1] và những gã" /><published>2020-09-20T22:10:08+07:00</published><updated>2020-09-20T22:10:08+07:00</updated><id>http://localhost:4000/2020/09/20/YVaNhungGa</id><content type="html" xml:base="http://localhost:4000/2020/09/20/YVaNhungGa.html">&lt;p&gt;“Nghịch ngợm, phá phách, tinh quái đến điều là Nguyên ở các entry viết về bè bạn. Chuyện là của riêng, mà viết ra khiến người không can dự phải đọc không dứt được, thế có nghĩa là tài. Thế có nghĩa là người viết đã mở được cửa cho đời vào.”&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-20T22:28:40+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bun Dau Mam Tom</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Có cái đéo gì mà phải xấu hổ!</title><link href="http://localhost:4000/2020/09/20/CoCaiDeoGiMaPhaiXauHo.html" rel="alternate" type="text/html" title="Có cái đéo gì mà phải xấu hổ!" /><published>2020-09-20T22:28:16+07:00</published><updated>2020-09-20T22:28:16+07:00</updated><id>http://localhost:4000/2020/09/20/CoCaiDeoGiMaPhaiXauHo</id><content type="html" xml:base="http://localhost:4000/2020/09/20/CoCaiDeoGiMaPhaiXauHo.html">&lt;p&gt;Hồi mình chuẩn bị thi đại học (trường Mỹ thuật Công nghiệp) thì Kều đang bộ đội, đóng quân Sơn Tây. Kều hơn mình một tuổi, nó xuống Hà Nội luyện thi thì gặp mình, rồi thân. Ông anh họ của Kều có một căn hộ bé xíu khoảng 9 m2, không dùng, mới cho Kều về ở. Mình nhà ở Hà Nội, nhưng hay đến chỗ Kều vẽ và ngủ, cho tự do.&lt;/p&gt;
+
+&lt;p&gt;Trong số môn thi để vào Mỹ thuật Công nghiệp ngày ấy ngoài hai môn vẽ: hình họa, trang trí, còn phải thi hai môn văn hóa nữa là toán và văn. Thí sinh thi vào trường này có truyền thống học văn hóa dốt, thành ra thằng nào điểm văn hóa cao là cơ hội đỗ tăng vọt.&lt;/p&gt;
+
+&lt;p&gt;Kều hỏi mình:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Trình độ văn hóa mày thế nào?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Văn thì còn bịa được chút ít, chứ toán thì ngu như lợn! - Rồi hỏi lại Kều, - Mày thì sao?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Kều thụt thụt cái mồm kêu “ụt ịt ụt ịt…” thay cho câu trả lời.&lt;/p&gt;
+
+&lt;p&gt;Gần ngày thi Kều bảo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tao với mày ngồi khác buồng, nên hôm nào vào phòng thi hai thằng phải căn đồng hồ, làm sao cứ 9 giờ 30 phút thì cùng xin đi đái, gặp nhau ở buồng đái, tao làm được gì tao bày cho mày, mày làm được gì mày bày cho tao.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mình phân vân:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hai thằng ngu ngang ngửa như nhau thì biết gì mà bày?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cái thằng này! Tức là tao quay được gì thì tao đưa mày, mày quay được gì thì mày đưa tao.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mình có nghe kinh nghiệm của mấy khóa trước đi thi về tuyên truyền lại, liền kể:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Luật bất thành văn ở trường này là vào thi nếu giám thị bắt được thí sinh quay bài sẽ thu tài liệu, nhưng không đánh dấu bài, vẫn cho thi tiếp. Thế là đã có châm chước vì đây là trường năng khiếu, môn văn hóa không đánh giá cao. Trường mình vào kỳ thi toàn mượn giáo viên mấy trường cấp ba về trông, mắt lửa ngươi vàng, kinh nghiệm đầy mình, thằng nào quay cũng bị giám thị dính đít hết. Mà như cái loại tao với mày, tài liệu đã bị thu thì cũng coi như toi, ngồi thi tiếp làm gì!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vài hôm sau gặp mình, mặt Kều tươi tỉnh, Kều bảo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hôm thi văn hóa tao có cách rồi.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;…?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hôm ấy tao sẽ mặc quân phục, thấy là bộ đội, tình quân dân cá nước, thể nào giám thị cũng thương…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Xoay thêm một bộ nữa cho tao. Tao cũng làm bộ đội! Thông minh quá đồ ngu ơi!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Năm ấy trường Mỹ thuật Công nghiệp thuê địa điểm thi ở một trường cấp ba, lúc thi hai môn văn hóa, cũng như mọi năm, giáo viên trường cấp ba này đảm nhận luôn việc trông thi.&lt;/p&gt;
+
+&lt;p&gt;Mấy hôm trước Kều về đơn vị mang xuống hai bộ quân phục, một bộ sẵn của nó, một bộ nó mượn cho mình, có gắn cả quân hàm quân hiệu. Mình với Kều xanh rì - đỏ chót xuất hiện ở địa điểm thi, cả trường nhìn.&lt;/p&gt;
+
+&lt;p&gt;Vào phòng thi chỗ mình ngồi cuối lớp. Quyển Đáp án bộ đề thi đại học dày cộp mình giắt thắt lưng. Giám thị là hai cô giáo. Thấy mình mặc quân phục, một cô hỏi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cậu là bộ đội à?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Thưa cô, vâng!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Phòng bên kia cũng có một cậu bộ đội, thế có biết nhau không?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dạ, bạn ấy ở đơn vị cùng em, đơn vị cử hai đứa đi thi, học xong trở về phục vụ quân đội.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mình cố thêm cái ý “trở về phục vụ quân đội” là để tăng thiện cảm của cô. Chiêu này có vẻ thành công, cô giám thị ân cần:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Thế đi thi thế này cậu có ôn được nhiều không?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Thưa cô, thời gian bọn em cũng hạn chế vì vẫn còn nhiệm vụ của quân đội. Bọn em có vất vả hơn ở mấy môn văn hóa. Nhưng… nhưng được đi thi thế này là đơn vị đã tạo điều kiện cho bọn em nhiều lắm đấy ạ!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cô giám thị nhìn xuống bụng mình. Mình cũng liếc xuống bụng mình, gáy quyển Đáp án bộ đề thi đại học kẹp trong bụng trồi qua khe áo. Cô không nói gì.&lt;/p&gt;
+
+&lt;p&gt;Hôm ấy ở phòng mình rất nhiều đứa quay bài. Đống phao của bọn này có cái làm rất kỳ công, thành những băng giấy bé bằng nửa cuộn phim kẹp gọn giữa hai ngón tay, chữ trên đó li ti như đít muỗi. Thế mà hai cô giám thị cực tinh, bắt không sót trường hợp nào. Riêng mình đặt cả quyển Đáp án bộ để thi đại học dày cồm cộp trên lòng, xé các trang cần chép, xong ngồi lên, vừa rề rề tay ở khe háng vừa ghi (năm ấy đề thi toán trường mình toàn rút từ cuốn này). Có lần đi ngang mình cô giám thị nói bâng quơ:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hình như sắp đến giờ giám thị hành lang đi kiểm tra.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mình biết lắm cái bâng quơ ấy cô dành cho ai.&lt;/p&gt;
+
+&lt;p&gt;Lúc chạy xuống nhà vệ sinh gặp Kều, mình hỏi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Thế nào, thoát không?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Phải hỏi thắng không chứ không phải thoát không!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Năm ấy mình và Kều cùng “thắng”, có học bổng. Điểm văn hóa mình hơn Kều nửa điểm.&lt;/p&gt;
+
+&lt;p&gt;Mình bảo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Thì ra về học vấn tao vẫn uyên thâm hơn!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Kều bảo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Thì ra viết chính tả cũng được coi là học vấn.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hai mươi năm sau mình lấy vợ. Bộ Đại học cũng đã tỏ ra sáng suốt hơn khi không còn bắt học sinh thi vào Mỹ thuật Công nghiệp phải thi môn toán. Mình và Kều hàng tuần vẫn gặp nhau uống bia, thỉnh thoảng ôn chuyện xưa vẫn nói: “Hồi đó bọn mình vào được đại học là nhờ thông minh hơn người.”&lt;/p&gt;
+
+&lt;p&gt;Vợ mình vốn từ bé đã là dân trường chuyên lớp chọn, thị sang Đức học, rồi sang Mỹ làm tiến sĩ về công nghệ môi trường ở trường Michigan - cái trường này vốn có tiếng tăm, nằm trong top 10 đại học của Mỹ.&lt;/p&gt;
+
+&lt;p&gt;Một lần mình với vợ xem vô tuyến, thấy phóng sự nói về tình trạng quay cóp của học sinh sinh viên trong các kỳ thi, vợ mình nói:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Anh có tin không, từ bé đến lớn em chưa bao giờ biết quay cóp.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ừ, thì tin!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ừ… thì… tin, vợ mình đây, sao miễn cưỡng thế?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Một lát thị lại tiếp: Mà sao người ta lại có thể hồn nhiên quay cóp thế được nhỉ? Tại sao người ta không thấy xấu hổ nhỉ?&lt;/p&gt;
+
+&lt;p&gt;Mình vốn nổi tiếng sợ vợ, thế mà lúc ấy bỗng nhiên máu trên mặt bốc pừng pừng, mình trợn mắt, băm bổ:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Có cái đéo gì mà phải xấu hổ! Có cái đéo gì mà phải xấu hổ…! Hử? Hử? Hử?…&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">Hồi mình chuẩn bị thi đại học (trường Mỹ thuật Công nghiệp) thì Kều đang bộ đội, đóng quân Sơn Tây. Kều hơn mình một tuổi, nó xuống Hà Nội luyện thi thì gặp mình, rồi thân. Ông anh họ của Kều có một căn hộ bé xíu khoảng 9 m2, không dùng, mới cho Kều về ở. Mình nhà ở Hà Nội, nhưng hay đến chỗ Kều vẽ và ngủ, cho tự do.</summary></entry><entry><title type="html">Lũ câm</title><link href="http://localhost:4000/2020/09/20/LuCam.html" rel="alternate" type="text/html" title="Lũ câm" /><published>2020-09-20T22:26:57+07:00</published><updated>2020-09-20T22:26:57+07:00</updated><id>http://localhost:4000/2020/09/20/LuCam</id><content type="html" xml:base="http://localhost:4000/2020/09/20/LuCam.html">&lt;p&gt;Hồi 1994, mình học năm thứ hai Mỹ thuật Công nghiệp. Mình có lão bạn già nhờ trang trí đám cưới. Nhà lão này ở ngõ Xã Đàn, cạnh trường dạy học sinh câm điếc. Mình liền kéo mấy thằng cùng lớp đi làm cùng.&lt;/p&gt;
+
+&lt;p&gt;Lão bạn già của mình là dân văn nghệ, tính đại gàn đại dở, ba mươi bảy tuổi lấy vợ. Lão không thích dùng đồ trang trí đám cưới bán đại trà ở Hàng Mã, mà thích phải là đồ tự làm, sao cho nhắng cho độc.&lt;/p&gt;
+
+&lt;p&gt;Bọn mình mua giấy màu, vải vụn về xé, dán lên tường rất vui mắt. Rồi treo mấy cái khẩu hiệu: “Phong-Hương vạn tuế” (tên cô dâu chú rể), “Một đám cưới - Trọn kiếp người”. Ở phần phông nền chính, mình nói với chú rể: “Hôn nhân vốn là cuộc chiến, hạnh phúc trong hôn nhân chính là những lúc đình chiến, anh nên làm biểu tượng hai khẩu thần công chụm đầu dưới chữ Song Hỷ”. Mình nói thế là đùa, ai dè lão bảo: “Có lý! Cứ làm thế cho tao.” Mình đâm áy náy, gàn lại, lão nhất quyết không chịu.&lt;/p&gt;
+
+&lt;p&gt;Cắt xong hình hai khẩu pháo thì gắn thêm bông hoa hồng ở nòng, vẫn đang đà nhảm nhí, mấy thằng mình dán chi chít lên phông những viên đạn hình chai, để “Rượu tình yêu 1.000 độ”.&lt;/p&gt;
+
+&lt;p&gt;Dân tình đi ngang lắm người thấy lạ, ngó vào xem. Chú rể sướng, mặt mũi cực kỳ vênh vác.&lt;/p&gt;
+
+&lt;p&gt;Địa điểm đám cưới ở cạnh Trường Câm điếc Xã Đàn. Có mấy đứa học sinh trường này cũng ra xem, chúng nó khoái, mồm ú ớ, tay chân vung vẩy.&lt;/p&gt;
+
+&lt;p&gt;T học một lớp của người câm kéo dài từ năm rưỡi đến hai năm, mấy đứa này tuy học cấp hai, nhưng tuổi cũng lớn, chừng mười sáu mười bảy. Chúng nó chỉ ảnh cô dâu chú rể, bóp bàn tay này vào cổ tay kia, thụt thụt cổ tay, nói: “pịt”. Thấy thằng Châu Điên học cùng mình úp bàn tay vào đít rồi vỗ mồm Sỹ Phò, mấy đứa ấy nhìn Sỹ Phò, nói: “ăn k… í… t”. Bọn bạn mình cũng huơ huơ tay nói chuyện với chúng nó, cả lũ vỗ mồm vỗ dái, thỉnh thoảng lấy tay này bóp vào cổ tay kia thụt thụt, kêu “pịt tẹ”, cười nhăn nhở. Xem chừng hiểu nhau.&lt;/p&gt;
+
+&lt;p&gt;Trang trí xong lúc xâm xẩm tối, mình và mấy thằng bạn chuẩn bị về trường, mới nhờ lão chú rể đi gọi hai chiếc xích lô. Hai gã xích lô vào, nhìn bọn mình với mấy thằng cu câm huơ tay huơ chân, ú ớ vẫy nhau, mới hỏi chú rể:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bọn này bị sao hả bác?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lão chú rể chỉ cái biển Trường Câm điếc Xã Đàn, nói:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Biển đề rõ thế này mà còn phải hỏi à?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Thế giờ đưa chúng nó về đâu hả bác?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cứ chở chúng nó về Đê La Thành, lúc nào dừng thì chúng nó ra hiệu.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thấy trò bị nhầm thế hay hay, mình và mấy thằng bạn lúc ngồi xích lô tuyệt nhiên không cất lời, chỉ huơ tay huơ chân, ú ớ…&lt;/p&gt;
+
+&lt;p&gt;Hai gã xích lô vừa đi vừa nó một gã rụt rè:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cái bọn câm này là cả điếc hả ông?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Thì có điếc mới câm chứ!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Chắc không?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tôi đùa ông chắc?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Thế mình chửi nó nghe không?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Đã điếc mà lại còn nghe? Ông chửi đi, tôi cá…!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Đ… mẹ mày!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hai gã xích lô cười phành phạch.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ông nhà ở đâu?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tôi ở Phú Thọ. Thế ông?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tôi ở đây, vừa tù về, kiếm cái xích lô chạy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mà bọn này trông khôn.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Thì nó chỉ mỗi điếc với câm, chứ mọi cái nó khác gì mình!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Đấy, tay chúng nó kìa… đang nói chuyện ấy đấy, tay thụt lên thụt xuống… là ấy đấy, thấy chưa!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hay chúng nó chửi nhau?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Chửi nhau mà mặt thằng nào cũng cười hơn hớn thế à?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hóa từ nãy đến giờ chúng nó toàn nói chuyện ấy ông ạ!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ừ, bọn này ăn gì mà dâm thế!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mà chúng nó tán gái kiểu gì ông nhỉ?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ờ, ờ… thì nó cưa mấy con cũng câm, không nói được thì nó dùng tay…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tán kiểu bọn này đâm hay, chứ biết nói như mình, lại chả sướng nhanh bằng chúng nó!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ừ, sao chúng mày sướng thế!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Đến trước cổng Trường Mỹ thuật Công nghiệp, bọn mình ra hiệu dừng, lúc xuống xe, mình giơ ngón tay, ú ớ…&lt;/p&gt;
+
+&lt;p&gt;Gã người Phú Thọ hỏi gã đi tù về:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lấy chúng nó bao nhiêu?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mỗi xe mười nghìn.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Có đắt không&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kệ!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Gã xích lô vừa tù về giơ mười ngón tay.&lt;/p&gt;
+
+&lt;p&gt;Mình giơ năm ngón tay.&lt;/p&gt;
+
+&lt;p&gt;Gã giơ lại mười ngón tay.&lt;/p&gt;
+
+&lt;p&gt;Mình vẫn giơ năm ngón tay.&lt;/p&gt;
+
+&lt;p&gt;Gã chửi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Đ… mẹ thằng câm này, mười nghìn, đéo kỳ kèo!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lúc ấy mình nói, rất rành rọt:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chúng mày đéo biết thương người tàn tật à?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bọn mình có bốn thằng. Nặng nhất là Sỹ Phò bảy tư kilogram. Ngoài Châu Điên có phần nhẹ cân thì mình và thằng còn lại cũng nặng trên sáu chục.&lt;/p&gt;
+
+&lt;p&gt;Đến lượt gã xích lô này ú ớ, chắc gã nhớ đến việc vừa chửi sa sả mấy thằng bọn mình, gã thọt thẹt:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dạ vâng, bọn anh tàn tật thì đưa em bao nhiêu cũng được!&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">Hồi 1994, mình học năm thứ hai Mỹ thuật Công nghiệp. Mình có lão bạn già nhờ trang trí đám cưới. Nhà lão này ở ngõ Xã Đàn, cạnh trường dạy học sinh câm điếc. Mình liền kéo mấy thằng cùng lớp đi làm cùng.</summary></entry><entry><title type="html">Ông Kỳ đà</title><link href="http://localhost:4000/2020/09/20/LuKyDa.html" rel="alternate" type="text/html" title="Ông Kỳ đà" /><published>2020-09-20T22:25:08+07:00</published><updated>2020-09-20T22:25:08+07:00</updated><id>http://localhost:4000/2020/09/20/LuKyDa</id><content type="html" xml:base="http://localhost:4000/2020/09/20/LuKyDa.html">&lt;p&gt;Bối cảnh của câu chuyện này xảy ra cách đây chừng mười bốn năm. Xin lưu ý là từ đó đến nay nhân vật chính thay đổi rất nhiều, cả ngoại hình và tính cách.&lt;/p&gt;
+
+&lt;p&gt;Mà bớ thằng Hồ Sỹ! Mày đọc xong entry này, có cay cú ông thì cũng kệ mẹ mày! Có giỏi thì mở một blog mà bêu nhọ nhau cho máu, cho chuyên nghiệp! Đừng giở giói đêm hôm gọi điện chửi bới, làm ông mất ngủ!&lt;/p&gt;
+
+&lt;p&gt;Điều đầu tiên cần phải khẳng định: Hồ Sỹ có một ông bố, và duy nhất chỉ có một ông bố. Ông bố đó ở Hà Tĩnh. Làm cán bộ ngành thông tin. Y đã từng gặp ông tại Hà Nội. Đó là một người cương trực và đôn hậu, có gì đó giống hình ảnh ông đồ xứ Nghệ xưa.&lt;/p&gt;
+
+&lt;p&gt;Quan hệ huyết thống của bố con Hồ Sỹ là điều khỏi cần bàn cãi. Chỉ nhìn mặt là biết. Với sản phẩm để đời mang tên Hồ Sỹ, có thể gọi ông là thợ đúc bậc bảy.&lt;/p&gt;
+
+&lt;p&gt;Tại sao lại cần nhấn mạnh mối quan hệ huyết thống này? Xin thưa là để tránh cho ai đó suy nghĩ rằng Hồ Sỹ có nhiều bố khi đọc lý lịch tự khai của gã. (Xin lưu ý là mỗi câu này ứng với những thời điểm khác nhau, đối tượng nghe cũng là những nàng khác nhau!)&lt;/p&gt;
+
+&lt;p&gt;Hồ Sỹ bảo: Bố anh, tổng giám đốc một công ty xây dựng ở miền Trung…&lt;/p&gt;
+
+&lt;p&gt;Hồ Sỹ bảo: Bố anh, Chánh thanh tra bộ tài…&lt;/p&gt;
+
+&lt;p&gt;Hổ Sỹ bảo: Bố anh, Việt kiều ở Mỹ…&lt;/p&gt;
+
+&lt;p&gt;Hồ Sỹ bảo: Bố anh,…&lt;/p&gt;
+
+&lt;p&gt;Hồ Sỹ bảo: Bố anh,…&lt;/p&gt;
+
+&lt;p&gt;Đến đây hẳn mọi người sẽ đặt dấu hỏi: Phải chăng Hồ Sỹ là kẻ ba hoa?!&lt;/p&gt;
+
+&lt;p&gt;Vâng! Xin thưa, điều đó cực kỳ chính xác!&lt;/p&gt;
+
+&lt;p&gt;Hồ Sỹ sở hữu một nội công thượng thừa là Thiết Diện Bì (da mặt sắt). Nên ít biết ngượng khi khoác lác. Nếu ai đó phát hiện ra sự dối trá, môn nội công này càng phát huy hiệu quả.&lt;/p&gt;
+
+&lt;p&gt;Hồ Sỹ tỉnh bơ, lý luận: “Xét về nhân quyền thì bốc phét cũng là một quyền!”&lt;/p&gt;
+
+&lt;p&gt;Để ngụy trang thứ nội công đấy trước mắt người đời, Hồ Sỹ cắm vào cằm mình nhúm râu.&lt;/p&gt;
+
+&lt;p&gt;Từ lâu Hổ Sỹ nhận ra, với tem nhãn sinh viên Mỹ thuật, đi cưa gái không đến nỗi tồi. Nhưng ăn sâu trong tâm thức người đời, là giống đấy nghèo! Mỗi lấn chứng kiến cảnh chị em phân vân khi quyết định đổ, Hồ Sỹ hết sức khó chịu. Màn diễn này thường lại dai. Rất tốn kém.&lt;/p&gt;
+
+&lt;p&gt;Để tốc thắng, Hổ Sỹ sáng tạo một chiêu thức. Đó là nặn ra những ông bố có thương hiệu khác nhau. Tùy gu của từng nàng mà lắp “bố” cho hợp những nhân vật này có điểm chung là giàu, quyển chức; nhưng luôn ngăn cản con mình theo đuổi nghệ thuật. Đứa con (tức Hồ Sỹ) cứng đầu, bất chấp tất, chạy theo niềm đam mê, thậm chí không thèm nhận chu cấp của cha mẹ. Chi tiết này có ý nghĩa hết sức thiết thực. Nó giúp giải thích những hoàn cảnh mỏng túi. Nhưng cũng ngầm làm các nàng hiểu, rằng ở gã luôn tiềm tàng một nguồn tài chính hùng hậu.&lt;/p&gt;
+
+&lt;p&gt;Có kẻ bảo Hồ Sỹ mắc bệnh ba hoa. Nhưng theo y bảo thế là sai. Vì xét ở khía cạnh y học, những kẻ mang bệnh thường bị thôi thúc bởi ham muốn bất khả tri. Lý trí không kiểm soát nổi. Nhưng Hồ Sỹ khác hẳn. Gã có chủ đích rõ ràng, kỹ năng lại khéo léo. Hồ sơ tiểu sử những ông bố được tiết lộ bài bản, úp úp mở mở, làm người nghe mặc nhiên tin. Đôi khi còn khiến các nàng nghĩ, rằng cái ông bố giàu có đấy gã cố tình giấu. Lộ là chẳng qua do lỡ lời.&lt;/p&gt;
+
+&lt;p&gt;Ông bố giả tưởng của Hồ Sỹ có lý lịch luôn biến màu. Nên được mệnh danh là “Ông kỳ đà!”&lt;/p&gt;
+
+&lt;p&gt;Với tiểu sử trang nam nhi từ chối đời sung túc để nghệ thuật dấn thân, gã hiện ra như một lãng nhân đậm màu sắc truyền kỳ.&lt;/p&gt;
+
+&lt;p&gt;Cũng chả nên dại dột mà kết luận chị em nhẹ dạ và nông nghĩ!…&lt;/p&gt;
+
+&lt;p&gt;Có một lần, y và Hổ Sỹ đi chơi cùng một nhóm các nàng. Mới quen. Chuyện rất rôm rả. Khi Hồ Sỹ vào nhà vệ sinh, thập thò nháy mắt y, ý gọi đi cùng.&lt;/p&gt;
+
+&lt;p&gt;Vào nhà vệ sinh, Hồ Sỹ nói:&lt;/p&gt;
+
+&lt;p&gt;“Tao quên mẹ nó mất là lúc trước bảo với các em bố tao là ai! Thế mày có còn nhớ không?…”&lt;/p&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">Bối cảnh của câu chuyện này xảy ra cách đây chừng mười bốn năm. Xin lưu ý là từ đó đến nay nhân vật chính thay đổi rất nhiều, cả ngoại hình và tính cách.</summary></entry><entry><title type="html">Hồ Sỹ</title><link href="http://localhost:4000/2020/09/20/HoSy.html" rel="alternate" type="text/html" title="Hồ Sỹ" /><published>2020-09-20T22:22:36+07:00</published><updated>2020-09-20T22:22:36+07:00</updated><id>http://localhost:4000/2020/09/20/HoSy</id><content type="html" xml:base="http://localhost:4000/2020/09/20/HoSy.html">&lt;p&gt;Nhìn đám giấy nhàu nhò, nhặt lên, thấy trang nhất ghi Hồ Sỹ - Đại học Mỹ thuật Công nghiệp - Việt Nam. Hóa không phải giấy lộn! Mà là vở. Bao năm học đại học, chẳng riêng mình, rất nhiều đứa gần như tái mù chữ, vì chỉ vẽ. Thằng này còn có cả vở, lại đề rõ quốc hiệu “Việt Nam” sau tên trường, phải chăng sợ bị ai nhầm là tây?&lt;/p&gt;
+
+&lt;p&gt;Tên cúng cơm: Hồ Duy Sỹ. Sinh 1973, quê Nghi Xuân Hà Tĩnh.&lt;/p&gt;
+
+&lt;p&gt;Người như xe tăng.&lt;/p&gt;
+
+&lt;p&gt;Mình hay nói là nhìn mắt thấy mộng của Sỹ không nhỏ! Vì mắt nó chễm chệ cục thịt thừa, nên nói vậy đơn thuần là tả thực!&lt;/p&gt;
+
+&lt;p&gt;Sỹ về quê, khi ra, đến nhà mình khoe là vừa đốt xong mộng mắt, hết 1 triệu. Mẹ mình nghe thế nói: “Trong đấy đắt, chứ ở ngoài này, bỏ 5 triệu, thì đài hóa thân Hoàn Vũ đốt toàn thân, triệt để lắm! Tám mươi cân như cháu giá vẫn vậy!”&lt;/p&gt;
+
+&lt;p&gt;Lại lạm bàn một chút quanh cái tên Hồ Duy Sỹ.&lt;/p&gt;
+
+&lt;p&gt;Chẳng hiểu sao, nó không ưa chữ “Duy” cha sinh mẹ đẻ tặng, thường xứng Hồ Sỹ. Khi ký, bỏ nốt dấu. Lũ cùng lớp đọc trệch chữ s ra chữ X, thành HO XI. Nó ghét cái tên này, vì những kẻ vô ý hay cố tình vô ý thường thêm hai dấu sắc.&lt;/p&gt;
+
+&lt;p&gt;Lần đầu tiên gặp nhau, nghe người đời gọi Sỹ Điên, Sỹ Bọ. Sống với nó một thời gian, mình gọi là Sy Pho (viết không dấu), vì dẫu sao mình cũng không muốn gắn cái tên cúng cơm của nó với một nghề bị coi chả mấy thanh sạch. Nhưng đời chẳng chịu hiểu lòng mình, cứ gọi trắng phớ là Sỹ Phò. Cái tên từ đấy mặc định, tuổi thọ đến giờ cũng đã mười ba năm.&lt;/p&gt;
+
+&lt;p&gt;Hôm nay, tao chính thức xin lỗi vì cái mẩu đuôi tao đính kèm tên mày. Chả gì các bậc tiền nhân cũng để cao chữ Sỹ lắm. Quê mày ở Nghi Xuân, đồng hương với cụ Nguyễn Du, đất thi ca đời đời, có lẽ cha mẹ gửi gắm kỳ vọng vào danh tính thằng con không ít.&lt;/p&gt;
+
+&lt;p&gt;“Nhất sĩ nhì nông”, trật tự xưa giờ chỉ còn đáng một nửa!&lt;/p&gt;
+
+&lt;p&gt;Một lần vô tình tao nghe người bạn làm báo kể: “Cô phóng viên chỗ mình yêu một anh họa sĩ, cũng học ở trường Nguyên ra. Chia tay nhau, anh ta uống rượu, đến trước cửa tòa soạn, dán băng rôn khẩu hiệu tưng bừng, gào tên vị hôn thê hụt. Nhìn anh ta dữ, to con, nên chẳng ai dám đuổi!”&lt;/p&gt;
+
+&lt;p&gt;Chàng họa sĩ đấy là ai thì tao biết tỏng! Tao vẫn gặp mày và cô bé đấy đi cùng nhau, nàng nhỏ xinh như cái kẹo và biết cả làm thơ. Hàng tuần nàng kho hai nồi thịt, đưa đến xưởng vẽ. Giản dị và lãng mạn. Tao đùa, bảo: “Vợ thi sĩ, chồng họa sĩ, ‘nghệ’ quá rồi đ… đẻ được đâu!” Nghe xong, mày cười thật hiền. Chả còn đâu cái vẻ hung hãn của gã Sỹ Phò! Mới thấy tình yêu sao mà kỳ diệu!&lt;/p&gt;
+
+&lt;p&gt;Mối tình của Sỹ đi lấy chổng. Chồng nàng bị dần một trận tơi tả. Nghe bảo đối tượng hành hung nặng khoảng 80 cân. Đã bị công an bắt.&lt;/p&gt;
+
+&lt;p&gt;Hay tin, mình mò đến nhà Sỹ, thấy nó nhơn nhơn ngồi tu rượu.&lt;/p&gt;
+
+&lt;p&gt;Mình hỏi: “Làm thế nào mày lại được thả?”&lt;/p&gt;
+
+&lt;p&gt;Nó nói: “Tao chứng minh được tao tâm thần!”, rồi cười hệch.&lt;/p&gt;
+
+&lt;p&gt;Mình chẳng tin lắm đâu, nhưng bụng thầm nghĩ, một lũ bọn mình thật giống nhau, mà sao lại chỉ có thằng này dũng cảm, dám đối diện gọi tên sự thật!…&lt;/p&gt;
+
+&lt;p&gt;Diễn viên&lt;/p&gt;
+
+&lt;p&gt;Hồ Sỹ vai u vâm. Bụng nếnh mỡ. Tóc cua dựng. Trông hệt thằng cai.&lt;/p&gt;
+
+&lt;p&gt;Y hỏi: “Giờ mày nặng bao cân?” Gã bảo: “Một bách.”&lt;/p&gt;
+
+&lt;p&gt;Hồ Sỹ sống như cỏ. Vứt vào mọi loại đất, tưới ít cồn lên là mọc khỏe. Từ tiệm rượu tây đến quán rượu dân tộc ngâm rắn rít, hay mẹt quốc lủi vỉa hè mà đồ nhậu là cóc ổi nem chua; chỗ nào cũng có thể chạm mặt gã.&lt;/p&gt;
+
+&lt;p&gt;Hồ Sỹ quen nhiều thành phần. Rất khó để nhận biết là vàng hay thau.&lt;/p&gt;
+
+&lt;p&gt;Cũng một lần uống rượu, có tay đạo diễn rủ Hồ Sỹ đóng phim truyền hình. Vào vai trùm lưu manh. Hồ Sỹ năn nỉ: “Anh cố nặn cho kịch bản pha hiếp dâm nhé!”&lt;/p&gt;
+
+&lt;p&gt;Phim đấy vốn y không theo dõi, vô tình bật ti vi, thấy Hồ Sỹ đang lãnh đạo một băng cướp giật. Phim phát trên VTV3. Cả nước xem.&lt;/p&gt;
+
+&lt;p&gt;Y chợt thấy gã sang quá, mới gọi điện nhắc cho gã nhớ y với gã là bạn thân thẩn thần thân… Gã bảo: “Qua xưởng vẽ của tao uống rượu. Châu Điên nó cũng đang ngồi đây.”&lt;/p&gt;
+
+&lt;p&gt;Mùa hè, ba thằng cởi trần, ngồi lẫn đống sơn dầu giá vẽ.&lt;/p&gt;
+
+&lt;p&gt;Ở giữa đặt bọc thịt chó, vài miếng đậu phụ luộc… Dĩ nhiên là có can rượu.&lt;/p&gt;
+
+&lt;p&gt;Hồ Sỹ bảo:&lt;/p&gt;
+
+&lt;p&gt;“Từ hôm phim được chiếu đến giờ, tao đã phải đãi đời tới sáu bữa chó.”&lt;/p&gt;
+
+&lt;p&gt;Châu Điên tru miệng:&lt;/p&gt;
+
+&lt;p&gt;“Eo!”&lt;/p&gt;
+
+&lt;p&gt;Hổ Sỹ tiếp:&lt;/p&gt;
+
+&lt;p&gt;“Mà mỗi bữa bằng một suất cát sê.”&lt;/p&gt;
+
+&lt;p&gt;Châu Điên chép miệng:&lt;/p&gt;
+
+&lt;p&gt;“Nổ cái là khổ nhỉ!”&lt;/p&gt;
+
+&lt;p&gt;Hồ Sỹ tiếp:&lt;/p&gt;
+
+&lt;p&gt;“Chúng mày toàn bọn hút máu nền điện ảnh!”&lt;/p&gt;
+
+&lt;p&gt;Châu Điên nhằn miếng xương trong mồm ra sàn, rồi chổng mông vào mặt Hồ Sỹ, nói:&lt;/p&gt;
+
+&lt;p&gt;“Giờ mày có tiếng có tăm rồi, ký kỷ niệm cho bố một chữ.”&lt;/p&gt;
+
+&lt;p&gt;Hồ Sỹ lẩy bút lông, quệt đầu bút vào sơn màu vàng nghệ thừa trong palet, nhanh tay tụt quần đùi Châu Điên, nhuẩy một vệt vào khe đít.&lt;/p&gt;
+
+&lt;p&gt;Châu Điên rửa đít bằng xăng, lúc vào bảo:&lt;/p&gt;
+
+&lt;p&gt;“Tên mày diệt được bao nhiêu giun kim!”&lt;/p&gt;
+
+&lt;p&gt;Sau phim đấy, Hồ Sỹ vẫn tiếp tục đóng nhiều phim, toàn vai lưu manh. Gã bảo: “Khi nào được đóng vai hiếp dâm, tao mới chia tay điện ảnh.”&lt;/p&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">Nhìn đám giấy nhàu nhò, nhặt lên, thấy trang nhất ghi Hồ Sỹ - Đại học Mỹ thuật Công nghiệp - Việt Nam. Hóa không phải giấy lộn! Mà là vở. Bao năm học đại học, chẳng riêng mình, rất nhiều đứa gần như tái mù chữ, vì chỉ vẽ. Thằng này còn có cả vở, lại đề rõ quốc hiệu “Việt Nam” sau tên trường, phải chăng sợ bị ai nhầm là tây?</summary></entry><entry><title type="html">Điện thoại toilet</title><link href="http://localhost:4000/2020/09/20/DienThoaiToilet.html" rel="alternate" type="text/html" title="Điện thoại toilet" /><published>2020-09-20T22:21:26+07:00</published><updated>2020-09-20T22:21:26+07:00</updated><id>http://localhost:4000/2020/09/20/DienThoaiToilet</id><content type="html" xml:base="http://localhost:4000/2020/09/20/DienThoaiToilet.html">&lt;p&gt;Kều học Mỹ thuật Công nghiệp cùng mình. Hai thằng thân nhau. Kều lúc mua nhà ở riêng đánh hẳn cho mình một cái chìa khóa.&lt;/p&gt;
+
+&lt;p&gt;Hôm tân gia, Kều được tặng mấy chiếc điện thoại bàn (thời ấy điện thoại di động gần như chưa ai dùng). Thừa điện thoại, lại rỗi việc, Kều liền tách đường dây mắc song song mỗi góc trong nhà một máy, trong toilet cũng treo một máy, cạnh bệ xổm. Kều bảo: “Thời nay hiện đại, công nghệ viễn thông phát triển vào mọi ngóc ngách đời sống, mình phải cập nhật. Vả lại mình là người quan trọng, mắc điện thoại ở đây để có đang mót cũng vẫn tiếp được dân.&lt;/p&gt;
+
+&lt;p&gt;Rồi Kều hỏi mình: “Thế nhà bạn Nguyên có điện thoại trong toilet không?”&lt;/p&gt;
+
+&lt;p&gt;Hồi trước có lần mình đang ngồi đại tiện, Kều mở he hé cửa đưa cho mình cái thìa, rồi đi. Cái thìa vốn là để xúc ăn, mình đang ngồi trong hố xí mà nó nhét cho mình cái thìa là ý bảo mình điều gì, mình biết! Bình thường mình và nó nói chuyện với nhau như chó sủa, giờ nó đột nhiên đổi giọng, gọi mình rất ngọt ngào “bạn Nguyên”, tức là đang mỉa sự lạc hậu nhà quê của mình khi không có công nghệ viễn thông trong nhà xí, mình biết!&lt;/p&gt;
+
+&lt;p&gt;Kều giận nhau với người yêu hai tuần. Hôm ấy mình xuống nhà Kều chơi, vì có chìa khóa, nên mình chẳng gọi cửa mà cứ thế ung dung mở khóa vào nhà. Kều đang ở nhà trên say sưa buôn điện thoại. Mình đến Kều cũng không biết. Nghe loáng thoáng dăm câu, biết nó đang nói chuyện với người yêu.&lt;/p&gt;
+
+&lt;p&gt;Mình lẻn xuống toilet, nhấc điện thoại ngồi nghe.&lt;/p&gt;
+
+&lt;p&gt;Chị và chàng bặt mặt lâu. Hôm nay chàng gọi điện chủ động làm lành. Qua câu chuyện, thấy cục giận của chị nàng đã nguội, giọng chuyển dần từ kim sang thổ, thỉnh thoảng lại điểm đôi câu “ứ”.&lt;/p&gt;
+
+&lt;p&gt;Buồn tình, mình thọc ngón tay vào nách, gí sát ống nói, rồi ép “ẹp pẹp…” hệt tiếng xả xú khí đại tiện.&lt;/p&gt;
+
+&lt;p&gt;Kều đang nói, chợt khựng.&lt;/p&gt;
+
+&lt;p&gt;Đầu dây bên kia cũng đột ngột lặng ngắt.&lt;/p&gt;
+
+&lt;p&gt;Thời gian đông lại, một lát, rồi giọng chị nàng nhẹ và nhạt, nói: “Nếu có lần nào gọi điện cho em, mong anh chọn thời điểm khác!”&lt;/p&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">Kều học Mỹ thuật Công nghiệp cùng mình. Hai thằng thân nhau. Kều lúc mua nhà ở riêng đánh hẳn cho mình một cái chìa khóa.</summary></entry><entry><title type="html">Chủ tịch công đoàn</title><link href="http://localhost:4000/2020/09/20/ChuTichCongDoan.html" rel="alternate" type="text/html" title="Chủ tịch công đoàn" /><published>2020-09-20T22:19:19+07:00</published><updated>2020-09-20T22:19:19+07:00</updated><id>http://localhost:4000/2020/09/20/ChuTichCongDoan</id><content type="html" xml:base="http://localhost:4000/2020/09/20/ChuTichCongDoan.html">&lt;p&gt;Nhiều người nói là nghề vẽ tranh dễ tạo cảm giác thiếu tin cậy, vì hay liên tưởng tới nghệ sĩ, mà cái giống đấy tâm hồn chổng ngược, đi hỏi vợ nhà gái cũng chẳng mấy thiện cảm. Con trai nó có thì, đâm lo! Nên cách đây vài năm, khi Thắng Kều mở công ty quảng cáo, mình bảo là có việc gì hợp sở trường cho tao làm với.&lt;/p&gt;
+
+&lt;p&gt;Hôm sau, nó in cho mình cacvidit, chức danh Chủ tịch công đoàn.&lt;/p&gt;
+
+&lt;p&gt;Vui lắm nhé! Vì từ nay mình cũng có đơn vị chủ quản, đỡ mang cái tiếng lông bông lang bang.&lt;/p&gt;
+
+&lt;p&gt;Công ty ở Mai Động, nằm giữa bạt ngàn hàng thịt chó, nên việc chính của mình là điểm danh quân số nhậu! Cứ dịp liên hoan thì mới phải có mặt để đếm đầu, chọn món. Mình làm tốt. Trách nhiệm lắm. Chưa thấy ai phàn nàn! Vả lại nó cũng chẳng mâu thuẫn gì với cái nghề vẽ tranh mình theo đuổi. Thỉnh thoảng nghe nhân viên công ty giới thiệu: “Anh Nguyên, hoạt động công đoàn rất nhiều kinh nghiệm!” Kể cũng mát mặt!&lt;/p&gt;
+
+&lt;p&gt;Kều làm mới được già nửa năm thì giải tán, chuyển việc khác! Mình đành nghỉ theo! Vẫn chưa kịp phát cacvidit cho cô nào!&lt;/p&gt;
+
+&lt;p&gt;Nếu công ty sống dai hơn thì với cái chức danh và nghề nghiệp đấy, biết đâu mình lại chẳng đã được một nàng để mắt. Âu cũng là cái số. Tình duyên hẩm! Phải chịu vậy!…&lt;/p&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">Nhiều người nói là nghề vẽ tranh dễ tạo cảm giác thiếu tin cậy, vì hay liên tưởng tới nghệ sĩ, mà cái giống đấy tâm hồn chổng ngược, đi hỏi vợ nhà gái cũng chẳng mấy thiện cảm. Con trai nó có thì, đâm lo! Nên cách đây vài năm, khi Thắng Kều mở công ty quảng cáo, mình bảo là có việc gì hợp sở trường cho tao làm với.</summary></entry><entry><title type="html">Y[1] và những gã</title><link href="http://localhost:4000/2020/09/20/YVaNhungGa.html" rel="alternate" type="text/html" title="Y[1] và những gã" /><published>2020-09-20T22:10:08+07:00</published><updated>2020-09-20T22:10:08+07:00</updated><id>http://localhost:4000/2020/09/20/YVaNhungGa</id><content type="html" xml:base="http://localhost:4000/2020/09/20/YVaNhungGa.html">&lt;p&gt;“Nghịch ngợm, phá phách, tinh quái đến điều là Nguyên ở các entry viết về bè bạn. Chuyện là của riêng, mà viết ra khiến người không can dự phải đọc không dứt được, thế có nghĩa là tài. Thế có nghĩa là người viết đã mở được cửa cho đời vào.”&lt;/p&gt;
 
 &lt;p&gt;Nhà văn Lê Minh Hà&lt;/p&gt;
 
@@ -435,564 +897,4 @@
   &lt;li&gt;Không thể bảo là cái chim ông Xích lập trường yếu được, vì lúc mụ Thấn sấn sổ tấn công, chim ông ấy vẫn hiên ngang chổng lên trời, phải nói lập trường thế là quyết liệt chứ, nhưng mà là lập trường theo gái tây!&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Bà Vân Đểnh bơ, làm như không nghe. Lúc về sân, nhìn thấy mụ Thấn, miệng bà sắt lại. Việc phát giác ông Xích trong đám tụ bạ xem phim sex lần này tất cả là tội của mụ Thấn!&lt;/p&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">Ông Cứ đi thu tiền ủng hộ đồng bào miền Trung bị lũ lụt. Qua nhà Hồng Cối bán bún chả, vợ Hồng Cối nói:</summary></entry><entry><title type="html">Khu cũ[1]</title><link href="http://localhost:4000/2020/09/20/KhuCu-1.html" rel="alternate" type="text/html" title="Khu cũ[1]" /><published>2020-09-20T22:01:19+07:00</published><updated>2020-09-20T22:01:19+07:00</updated><id>http://localhost:4000/2020/09/20/KhuCu-1</id><content type="html" xml:base="http://localhost:4000/2020/09/20/KhuCu-1.html">&lt;p&gt;[1] Truyện này mình vừa viết vừa post, vừa chỉnh sửa…&lt;/p&gt;
-
-&lt;p&gt;1.&lt;/p&gt;
-
-&lt;p&gt;Mụ Thấn người béo lẳn, mặt đỏ pừng pừng, mụ xềnh xệch lôi lão Thông đang co quắp như con dế từ trong nhà ra sân. Mụ đặt lão lên bể nước, cắp đầu lão vào nách rồi đấm như giã giò, vừa đấm vừa chửi:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Chồng con cái đồ bị thịt, mày ở nhà có cái việc trông nhà, mà mấy cái chăn đang phơi, mà mày để thằng nào con nào rẩy đầy mắm tôm. Bà xử, xử mày… xử mày…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lão Thông sau mỗi cú xuống đòn của vợ, lại “hự”. Chịu đòn được một lúc, lão bắt đầu la:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ối vợ ơi, tha cho con. Ối vợ ơi… tha cho con.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Tha, tha, tha này.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Đánh lão Thông xong, mụ Thấn quát:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Vào nhà! Tí về mà chưa có cơm nước thì đừng trách tao!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thế rồi mụ đi quanh xóm, mụ bắt đầu chửi:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ới thằng liền ông, ới con liền bà ới đứa già đứa trẻ. Đồ ăn chó cả lông, ăn hồng cả hạt. Đồ cái quân không sợ Phật đánh Thánh đâm, đồ ân không sợ trời tru đất diệt. Chúng mày rẩy mắm tôm vào chăn bà phơi thì bà lôi ông bà ông vải tam đại lục đại nhà mày lên nghe bà chửi… Cao tằng tổ khảo nhà mày có mấy cái đầu lâu, bà cũng đào hết lên đem đựng mắm ròi mắm rục…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nhà mình ở tầng hai của khu nhà tầng. Thằng Bách con mụ Thấn ngay từ lúc mẹ nó đi chợ về đã tót lên nhà mình lánh. Mình với thằng Bách mở hé cửa sổ, ngó xuống.&lt;/p&gt;
-
-&lt;p&gt;Mụ Thấn vẫn đang đi chửi, tới vòng này đã là vòng thứ ba.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Mày rẩy mắm tôm vào chăn nhà bà, thì bà thí cho mày cái chăn, về mày cắt ra mà may vải liệm dần, vì họ hàng hang hốc nhà mày thằng trước chưa chôn thằng sau đã nghẻo… - đang chửi, mụ Thấn bỗng ngừng, mụ ngồi thụp xuống lật một chiếc dép lên ngó, mụ cầm chiếc dép ra đống cát, mài mài đập đập, xong mụ chửi - Cha tiên sư thằng nào con nào ỉa thất nhân thất đức, mày ngồi ỉa đầu ngõ thì đâm xe bò, mày ngồi ỉa cuối ngõ thì đâm xe công nông. Cha tiên nhân đứa nào… đứa nào ỉa bậy, làm cứt dính dép bà…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Mụ Thấn vẫn tiếp tục đi chửi, nhưng giờ chuyện cái chăn bị rẩy mắm tôm đã nhạt, mụ chuyển đề tài, mụ chửi cái đứa nào ỉa bậy. Mấy con chó quanh khu chạy theo mụ Thấn bắt được hơi cứt, thỉnh thoảng xồ lại dúi mũi vào dép mụ, ngửi ngửi.&lt;/p&gt;
-
-&lt;p&gt;Mình nói với thằng Bách:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Mẹ mày nghĩ bài chửi nhanh như điện. Mẹ mày hồi xưa mà được đi học, khéo bây giờ thành nhà văn.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Một vài năm trước khi xóa bao cấp, vẫn còn chế độ phân nhà, nhà mình được phân một căn hộ tầng ba ở một khu năm tầng. Mình sống ở đây một quãng thời gian khoảng sáu bảy năm.&lt;/p&gt;
-
-&lt;p&gt;Căn nhà năm tầng này được xây những năm tám mươi. Người về đây ở toàn là cán bộ. Căn nhà nằm trên bãi đất cạnh một xóm nhỏ có khoảng ba chục hộ dân vốn đã ở đây từ xưa. Ba chục hộ này đa phần là dân lao động, làm nghề tự do. Từ khi có căn nhà tầng, những hộ trong xóm được gọi là khu dưới, để phân biệt với các hộ ở nhà tầng là khu trên.&lt;/p&gt;
-
-&lt;p&gt;Hồi mới dọn về đây, mình và bọn trẻ con khu trên đánh nhau với lũ trẻ con khu dưới mấy chục trận, rồi mới chơi với nhau.&lt;/p&gt;
-
-&lt;p&gt;Nhà mụ Thấn ở khu dưới. Mụ Thấn bán cá ngoài chợ. Lão Thông chồng mụ Thấn là công nhân về nghỉ mất sức. Từ hồi lão Thông bị di tinh, mụ Thấn phát bệnh chửi.&lt;/p&gt;
-
-&lt;p&gt;Cứ hàng sáng mụ Thần ra sân chửi, tầm nửa tiếng. Mụ chửi không vấp, chửi như tụng kinh. Chửi xong mụ mới đi chợ. Mọi người trong khu gọi bài chửi này của mụ Thấn là chửi chào cờ.&lt;/p&gt;
-
-&lt;p&gt;Mụ Thấn chửi chồng, chửi con, chửi hàng xóm, chửi phường, chửi mấy cô vệ sinh môi trường hôm qua hót rác không sạch, chửi gã nào đó đi xe máy về khuya, làm ồn v. v. Cái lối chửi này giống kiểu điểm tin, cập nhật và tỉ mỉ. Chuyện lão Thông bị di tinh, cũng do mụ Thấn lôi ra chửi, mọi người mới biết.&lt;/p&gt;
-
-&lt;p&gt;Mụ Thấn chửi cứ chửi, hàng xóm để ngoài tai. Nhà nào trong khu chẳng may là nạn nhân của mụ cũng chẳng rỗi hơi chửi lại, bởi ai cũng nghĩ hôm nay mụ chửi nhà mình, mai mụ chửi sang nhà khác, so ra nhà mình chẳng lỗ. Có thiệt hại tinh thần một chút thật, nhưng dù sao nó cũng được chia bình quân.&lt;/p&gt;
-
-&lt;p&gt;Ở ngoài chợ, hôm nào bán hết cá mà còn rỗi, mụ Thấn ngồi nán, chửi một lát, rồi mới về. Có lần mấy thằng tây đi ngang, gặp khi mụ Thấn đang chửi, hai tay mụ lúc vỗ vào nhau bộp bộp như đánh phách, lúc lại vung vẩy như vỗ gió chém trời. Bọn tây đứng lại xem, chúng nó khoái, lôi máy ảnh ra chụp. Đầu những năm chín mươi tây sang đây chưa nhiều, bộ dạng mấy thằng này có lẽ như cách gọi bây giờ là tây du lịch bụi, tây ba lô.&lt;/p&gt;
-
-&lt;p&gt;Thấy bọn tây giơ máy ảnh chụp, mụ Thấn liền giạng chân, vỗ háng, réo: “Tổ cha thằng Liên Xô, tổ cha thằng Liên Xô…”&lt;/p&gt;
-
-&lt;p&gt;Mới thoát bao cấp vài năm, Liên Xô vừa tan rã. Mấy chục năm gắn bó với Liên Xô, “tội vạ đâu Liên Xô chịu”, nên trong quan niệm của nhiều người mình chứ chả riêng mụ Thấn, cứ tây tức là Liên Xô.&lt;/p&gt;
-
-&lt;p&gt;Tuy miệng chửi, nhưng mặt mụ Thấn lại tươi cười. Có lẽ mụ cũng khoái vì lần này mình chửi có khán giả, mà là Liên Xô chứ chả đùa!&lt;/p&gt;
-
-&lt;p&gt;Lão Thông bố thằng Bách người lẻo khẻo và đần, mình đương nhiên chả coi ra gì. Mụ Thấn to béo, nặc nô mình cũng chẳng sợ. Mình bảo với thằng Bách:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tao quan hệ với bố mẹ mày là vì tôn trọng mày, chứ bao nhiêu anh hùng hảo hán các lễ vật để được chơi với tao, tao cũng còn chưa xét. Mày phải biết thế mà trung thành với tao!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thằng Bách bảo:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Em đội ơn đại ca!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Khu mình bầu tổ trưởng tổ dân phố mới, có ông Xích và ông Cứ.&lt;/p&gt;
-
-&lt;p&gt;Ông Xích người khu trên, nhà tầng một, trước là cán bộ công ty xe điện, nay về hưu. Ông Cứ ở khu dưới, nhà có cửa hàng buôn bán sửa chữa đồng hồ.&lt;/p&gt;
-
-&lt;p&gt;Hồi căn nhà tầng chưa xây, hơn ba chục hộ khu dưới là một tổ dân phố, ông Cứ làm tổ trưởng. Căn nhà tầng xây lên, số hộ ở tổ này từ hơn ba chục thành bảy chục. Nhưng ông Cứ vẫn làm tổ trưởng.&lt;/p&gt;
-
-&lt;p&gt;Ông Xích chuyển về căn nhà tầng một thời gian, ông liền đi vận động các hộ khu trên ủng hộ mình làm tổ trưởng tổ dân phố, thay ông Cứ. Ông Xích nói: “Hồi trước chưa có khu nhà mình, dân ở đây toàn bọn ngu, nên cái lão Cứ mới làm được tổ trưởng. Chứ lão này trình độ may ra hết lớp bốn, lại không phải đảng viên, không thể để lão ấy cai trị cả khu cán bộ nhà mình được!”&lt;/p&gt;
-
-&lt;p&gt;Ông Xích đi vận động từng nhà, bà Vân Đểnh vợ ông đi theo vận động cùng chồng. Đến mỗi nhà bà biếu một túi giấy báo gói nửa lạng chè Phú Thọ. Nhà nào không nhận, bà vẫn để lại.&lt;/p&gt;
-
-&lt;p&gt;Bà Vân Đểnh tên trong lý lịch là Đặng Thị Đểnh. Đi làm, bà thấy cái tên Đặng Thị Đểnh nó không sang, phát âm thì lổng chổng, nên thêm vào chữ Vân làm đệm. Hồi đầu người trong khu ai gọi là bà Đểnh, bà không đáp, phải gọi đầy đủ tên là Vân Đểnh bà mới nói chuyện. Tuy về hưu, nhưng bà Vân Đểnh thích đi họp. Ở khu phố có cuộc họp nào bà cũng tham gia, phát biểu hăng và hùng hồn.&lt;/p&gt;
-
-&lt;p&gt;Gặp mẹ mình ở cầu thang, bà Vân Đểnh thầm thì: “Làm anh cán bộ ở địa phương nói gì thì nói, cái thành phần là rất quan trọng, như tôi và ông Xích đều là thành phần cơ bản, lý lịch cực sạch, ba đời toàn bần cố nông, đi làm thì là cán bộ nhà nước chứ không phải loại tiểu thương như cái nhà lão Cứ!” Bà Vân Đểnh đi, mẹ mình bảo: “Đểnh hâm.”&lt;/p&gt;
-
-&lt;p&gt;Hôm bầu tổ trưởng, có sáu bảy người khu trên bầu ông Xích, còn người khu dưới tất cả đều bầu ông Cứ. Kết quả ông Cứ tiếp tục làm tổ trưởng. Các gia đình ở hai khu nhất trí lập thêm chức tổ phó, do ông Xích làm.&lt;/p&gt;
-
-&lt;p&gt;Bà Vân Đểnh rất cay, bà bảo những kẻ uống chè của bà là bọn xỏ lá, lập trường như cứt, bà mà là nhà nước thì bà xét lại lý lịch hết những kẻ này. Nhưng vài hôm sau bà nói: “Ông Xích nhà tôi tuy là tổ phó, nhưng kiêm nhiệm cả phụ trách an ninh, nên thật ra còn nhiều quyền hơn ông Cứ”.&lt;/p&gt;
-
-&lt;p&gt;Tối tối người ta thấy ông Xích cầm cái dùi cui gỗ ra căn chòi ở trụ sở ủy ban ngồi đánh bài với mấy anh dân phòng.&lt;/p&gt;
-
-&lt;p&gt;Hôm mụ Thấn chửi tây ngoài chợ bà Vân Đểnh chứng kiến. Họp tổ dân phố, có mặt lão Thông, ông Xích liền đem chuyện này ra trong cuộc họp. Ông Xích phê bình mụ Thấn chửi người nước ngoài, làm ảnh hưởng tới đường lối đổi mới là Việt Nam giờ chơi hết với tất cả các nước.&lt;/p&gt;
-
-&lt;p&gt;Có một chị khu dưới cũng ở ngoài chợ hôm ấy, nói:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Bọn tây nó chả biết tiếng mình. Mà bà Thấn lần vừa rồi tuy chửi, nhưng mặt lại tươi hớn hở lắm, có khi bọn tây nó nghĩ bà này đang hát ý chứ! Mà bọn tây chúng nó còn cười toe toe, còn chụp bao nhiêu ảnh.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ông Xích bảo:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Thế mới chết, vì bọn tây mang ảnh về nước nó, nó đăng báo, thì nhục nước mình!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Bà Vân Đểnh góp thêm:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Mà mụ Thấn này còn chửi “tổ cha Liên Xô”, là mất quan điểm, mất lập trường!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ở dưới có người nói:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Liên Xô tan vỡ hai ba năm nay rồi, chửi Liên Xô thì cũng như chửi cái hòm.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lại có người khác nói:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Bọn tây nó đâu có hiểu tiếng mình! Mà chưa biết chừng nếu mấy thằng ấy là tây tư bản, thấy bà Thấn chửi nó, nó lại tưởng là bà ấy thể hiện lập trường xã hội chủ nghĩa ý chứ!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ông Xích quay sang lão Thông nói:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ông Thông, trước nhà ông là khu toàn cán bộ, sáng nào vợ ông cũng ra đứng chửi, làm hỏng be bét hình ảnh của khu. Ông phải về nghiêm túc góp ý với bà Thấn.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lão Thông từ đầu buổi đến giờ ai nói gì cũng mặc, lão đang mải thông cái nõ điếu của mấy anh dân phòng. Giờ nghe nhắc đến tên, lão ngước lên bảo:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cả cái khu này ai chả biết, con mụ nhà tôi nó tha không đánh tôi là may, chứ tôi mở mồm nói nó, để nó nhét cứt vào mồm tôi à!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ông là chồng, ông nói hèn thế mà không thấy ngượng à? - Ông Xích bảo.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Tôi hèn thì hèn với vợ tôi, chả có gì phải ngượng! Hay ông là cán bộ, ông đến mà góp ý.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Nhưng ở đây bác Cứ mới là tổ trưởng, tôi… chỉ là tổ phó. Việc giáo dục bà Thấn là trách nhiệm của bác Cứ…&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ông Cứ vẫn ngồi im nghe mọi người bàn tán, giờ mới thủng thẳng:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Việc nhắc nhở lời ăn tiếng nói ở các gia đình ở phường ta từ trước đến nay là việc của hội phụ nữ phường. Chị Vân Đểnh có chân trong chi hội phụ nữ, hay là chị cứ mạnh dạn góp ý với cô Thấn, là tiện nhất.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Bà Vân Đểnh giãy nảy:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Này nhé, ông đừng có mà khôn lỏi, đừng có mà đánh bùn sang ao, tôi tôi… tôi chả việc gì phải dây dưa với con mẹ ấy!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Cuộc họp giải tán.&lt;/p&gt;
-
-&lt;p&gt;Sáng hôm sau, mụ Thấn đột nhiên ra sân chửi sớm và dài hơn thường lệ, mụ réo:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Vợ chồng đứa nào ba đời bần nông ở cái khu này, con nào chi hội với chả phụ nữ ở cái khu này thì dảy mái tai gài mái tóc mà nghe: bà chửi Liên Xô, bà chửi chồng… thì can hệ gì đến mồ mả nhà mày…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Tận mấy tuần sau, sáng nào mụ Thấn cũng dành thời gian chửi bần nông và hội phụ nữ. Bà Vân Đểnh mấy lần đã định lao ra ăn thua với mụ Thấn. Ông Xích bèn khóa trái cửa lại, rồi ngồi trong nhà bật đài thật to.&lt;/p&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">[1] Truyện này mình vừa viết vừa post, vừa chỉnh sửa…</summary></entry><entry><title type="html">Nhà cuối ngõ</title><link href="http://localhost:4000/2020/09/20/NhaCuoiNgo.html" rel="alternate" type="text/html" title="Nhà cuối ngõ" /><published>2020-09-20T22:00:22+07:00</published><updated>2020-09-20T22:00:22+07:00</updated><id>http://localhost:4000/2020/09/20/NhaCuoiNgo</id><content type="html" xml:base="http://localhost:4000/2020/09/20/NhaCuoiNgo.html">&lt;p&gt;Nghề nghiệp của y là vẽ tranh.&lt;/p&gt;
-
-&lt;p&gt;Y thuê một gian trong khu nhà hai gian nằm ở cuối ngõ làm xưởng vẽ, có lối đi và cổng riêng biệt. Chủ nhà này ở nơi khác. Người trong xóm đa phần là dân lao động, rất nhiều ca ve cũng về thuê nhà ở đấy.&lt;/p&gt;
-
-&lt;p&gt;Mụ Điếc tuổi gần năm mươi, bị nghễnh nặng, nhà ngay gần kề. Mụ có con nhưng không có chồng, nghề chính là làm thợ may, buổi chiều thì ra ghi lô ở đầu ngõ; cô con gái mụ vừa cưới xong, ở nhà chồng cũng gần đó. Y thường xưng hô với mụ Điếc là bà bà tôi tôi.&lt;/p&gt;
-
-&lt;p&gt;Vốn xưởng vẽ của y là nơi lũ bạn bè thường mò đến tụ bạ. Bọn này họ cú, thức đêm hò hét rượu chè inh ỏi, nên những chỗ y thuê ở trước đây thường bị hàng xóm sang phê bình. Giờ thuê được căn nhà mà chủ nhà không ở gần, hàng xóm lại điếc, y khoái lắm. Gặp mụ Điếc, y hô: “Bệnh điếc vạn tuế!” Mụ bảo: “Tao làm gì mà phải hạn chế?”&lt;/p&gt;
-
-&lt;p&gt;Mụ Điếc ngồi ghi lô, y đi ngang nói: “Điếc, tên em là một bài ca.” Mụ hỏi: “Cái gì, ba mốt bảy ba á? Đề hay lô?” Thấy mọi người xung quanh cười, mụ cầm cuốn sổ chạy theo đập đập đánh y bảo: “Thằng chó này chắc lại vừa nói gì đểu!”&lt;/p&gt;
-
-&lt;p&gt;Ở khu nhà thuê đó một thời gian thì y có thêm hàng xóm mới, là lão Hoán. Lão đến thuê gian bên cạnh, đi chung cổng với y.&lt;/p&gt;
-
-&lt;p&gt;Lão Hoán ngoài năm mươi, người lẻo khẻo môi mỏng hớt, gặp gái thì tròng mắt lảo đảo, nhìn gian và dê. Tiểu sử tiên sư của lão chả ai rõ, chỉ biết hiện tại lão kéo nhị trong hội nhạc đám ma.&lt;/p&gt;
-
-&lt;p&gt;Hồi lão mới về y hơi dè chừng, sợ nhậu nhẹt đêm hôm lão ý kiến ý cò. Nhưng không, lão chả để tâm. Y rủ lão sang uống rượu vài lần, thành thân tình. Lão bảo với y: “Tao chơi nhạc cụ dân tộc, mày vẽ tranh, lĩnh vực khác nhau, nhưng đều là nghệ sĩ. Tao với mày về đây làm văn hóa cho cái ngõ này.” Y cụng, đáp: “Chứ chả chuyện!”&lt;/p&gt;
-
-&lt;p&gt;Lão Hoán thích mụ Điếc ngay từ buổi mới về, rất hay lân la mon men… Mụ Điếc ngồi may, cúi lom khom, lão Hoán lượn ra lượn vào săm soi khe cổ mụ. Có lần lão ghé tai mụ Điếc bảo: “Đằng ấy dựng được vét tông, thế có biết dựng quần đùi không, thì dựng hộ cái!” Mụ Điếc bảo: “Nỡm, dở hơi, rửng mỡ!” Lão Hoán đi, mụ lẩm bẩm: “Đồ chó già!” rồi cười tủm.&lt;/p&gt;
-
-&lt;p&gt;Tối, lão Hoán kéo nhị hát:&lt;/p&gt;
-
-&lt;p&gt;“Một năm có mười hai tháng ớ ơ…&lt;/p&gt;
-
-&lt;p&gt;Một tháng có ba mươi ngày ớ ơ…&lt;/p&gt;
-
-&lt;p&gt;Thỉnh thoảng có tháng có ba mốt ngày ớ ơ…&lt;/p&gt;
-
-&lt;p&gt;Một tháng có ba ngày phụ nữ không được thắp hương ớ ơ…”&lt;/p&gt;
-
-&lt;p&gt;Đoạn, lão nghểnh sang nhà mụ Điếc hát:&lt;/p&gt;
-
-&lt;p&gt;“Em Điếc có còn bị kiêng thắp hương ớ ơ…”&lt;/p&gt;
-
-&lt;p&gt;Y liền bảo lão: “Bố sang bên đấy hỏi mẹ nó thẳng là em đã mãn kinh chưa, cho nhanh. Nhạc với chả nhẽo! Mà mụ ấy nghe được khối ra!”&lt;/p&gt;
-
-&lt;p&gt;Lão bảo: “Loại mày nghệ sĩ cái cục cứt. Chả lãng mạn gì cả!” Rồi hát tiếp:&lt;/p&gt;
-
-&lt;p&gt;“Hôm nào không kiêng thắp hương đừng chốt cửa buồng ớ ơ…”&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Ở góc sân nhà y có một cái ngách thông ra sau bếp nhà mụ Điếc, phải ép lưng vào tường mà lách mới đi lọt. Một bữa thấy lão Hoán từ trong đó chui ra, đầu tóc đầy mạng nhện. Gặp y lão sững, rồi nói: “Vừa nãy ném con chuột, văng mẹ nó dép trong này.” Y nhìn điệu bộ lão lấm lét, nghi. Một lát y mò vào ngách, đến bếp nhà mụ Điếc thấy có miếng liếp che buồng tắm bị cậy…&lt;/p&gt;
-
-&lt;p&gt;Về nhà, y hát:&lt;/p&gt;
-
-&lt;p&gt;“Mụ Điếc có tắm thì nhớ đặt bẫy ớ ơ…&lt;/p&gt;
-
-&lt;p&gt;Sau liếp có con chuột già ớ ơ…”&lt;/p&gt;
-
-&lt;p&gt;Lão Hoán nhăn nhở: “Tổ cha mày!”, rồi thầm thì: “Này, con mẹ Điếc này hàng họ còn ngon bằng tỉ mấy con ca ve ngoài kia mày ạ!”&lt;/p&gt;
-
-&lt;p&gt;Ngà là con gái mụ Điếc, nhưng không hề điếc. Ngà lấy chồng ở ngõ bên cạnh, chưa có con. Buổi tối Ngà bán bún ngan vịt ngay cửa nhà.&lt;/p&gt;
-
-&lt;p&gt;Chồng Ngà là tổ trưởng tổ kéo đường dây điện, thường đi công trình xa. Thằng này cục. Ngà lại là loại đáo để. Hai vợ chồng hay choảng nhau.&lt;/p&gt;
-
-&lt;p&gt;Có gã hàng xóm cạnh nhà Ngà sang ăn bún khuya, thấy Ngà tươi, mỡ, chồng lại đang đi vắng… Nhìn quanh quán thấy chẳng còn ai, gã hàng xóm lúc đỡ bát bún cố dúi tay vào vú Ngà, bảo: “Thêm cho anh tí thịt thừa ở ngực nhé!” Ngà đang cầm muôi nước dùng nóng chan luôn vào đũng quần gã…&lt;/p&gt;
-
-&lt;p&gt;Gã hàng xóm bỏng, mà không dám kêu ai. Hàng tuần giời đi đứng như thằng sa đì.&lt;/p&gt;
-
-&lt;p&gt;Chồng Ngà đi công trình về, ngủ mê mệt. Ngà mở điện thoại chồng thấy có ảnh chụp chồng vừa hát, vừa lúi húi móc rốn mấy cô em môi đỏ trong hàng karaoke. Thằng chồng đang ngáy há hốc mồm, Ngà nhặt chiếc guốc, nhè mồm chồng bổ, chửi: “Thằng đĩ, bà ở nhà giữ bướm cho mày, hầu hạ cả bố mẹ mày để cho mày đi sướng bậy à?” Thằng chồng rách môi, gãy nửa răng cửa liền tóm tóc vợ, dúi, lên gối uỳnh uỵch. Ngà thò tay tóm dái chồng bóp nghiến, chồng phải nhả tóc.&lt;/p&gt;
-
-&lt;p&gt;Ngà bỏ về nhà mẹ đẻ. Thằng chồng Ngà lôi hết đống guốc của vợ chặt sạch.&lt;/p&gt;
-
-&lt;p&gt;Sáng hôm sau thằng này đi làm, dái đau, chân bước lạng giạng. Ra ngõ, chạm mặt gã hàng xóm, thấy gã kia nhìn trộm mình lấm lét, lại cũng bước lạng giạng hệt mình, mới bảo: “Ông tương bỏ mẹ mày giờ! Mày thích nhại ông à?!”&lt;/p&gt;
-
-&lt;p&gt;Từ hôm Ngà về ở cùng mụ Điếc, lão Hoán ít lân la nhà mụ vì Ngà tỏ ra ghét lão. Ngà bảo mặt lão gian. Mụ Điếc thỉnh thoảng sang khu bên này, đứng dựa cửa nhà lão Hoán nói chuyện ê a ê a, như phường dở hơi.&lt;/p&gt;
-
-&lt;p&gt;Ngà mông to ngực to, lúc ngồi quạt than trước cửa nhà, đùi ép vào ngực, trồi lên ở cổ áo hai ụ trắng phau. Lão Hoán đi ngang, mắt liếc chân bước, đâm sầm đầu vào gốc dâu da xoan cạnh đường, kêu: “Úi giời!” Ngà lẩm bẩm: “Thằng dê già, cho chết! Có ngày bà xẻo, vứt cho chó ăn!” Vào nhà Ngà nói với mụ Điếc: “Bà bô đừng cho lão Hoán sang nhà, mà cũng đừng qua chuyện trò với lão bên ấy nữa!” Mụ Điếc ơ kìa, nhưng mà… sao sao…&lt;/p&gt;
-
-&lt;p&gt;Mẹ con mụ Điếc nói chuyện với nhau thường oang oang.&lt;/p&gt;
-
-&lt;p&gt;Bữa ấy y đang ngồi cà kê với lão Hoán ở sân nhà thì nghe thấy tiếng mụ Điếc vọng sang: “Bếp than vẫn đỏ đấy, con Ngà kia có tắm thì vào rót nước đi, để tao còn đun tiếp.”&lt;/p&gt;
-
-&lt;p&gt;Lão Hoán liếc trộm y. Y cũng liếc lão. Cả hai vơ vẩn, chuyện chả còn nếp còn tẻ. Biết thừa đầu óc nhau!&lt;/p&gt;
-
-&lt;p&gt;Một lát y nói: “Bố con mình làm nghệ thuật mà thỉnh thoảng không đi thưởng thức cái đẹp thì tài năng nó thui chột mất!” Lão bảo: “Chí lý!” Rồi co cẳng chạy ra chỗ ngách quên cả xỏ dép, định chui vào trước. Nhưng y khỏe, cầm đít lão quăng ra.&lt;/p&gt;
-
-&lt;p&gt;Trong buồng tắm, Ngà đang dội nước lên người.&lt;/p&gt;
-
-&lt;p&gt;Lão Hoán không chen được với y để nhòm, đứng bên cạnh sốt ruột, hết đẩy lại huých, rồi năn nỉ: “Kính lão đi mày ơi!” Rồi lầm bầm chửi: “Nghệ sĩ cái cục cứt gì mày, tham như mõ!”&lt;/p&gt;
-
-&lt;p&gt;Ngà đang kì đùi, bỗng nhiên ngừng, tai dỏng mắt đảo…&lt;/p&gt;
-
-&lt;p&gt;Y vội thụp xuống lách sâu vào trong ngách. Lão Hoán chỉ đợi thế, hí hửng chen lên bậy liếp thò mặt vào… thì một xô nước màu trắng nhờ nhờ tạt ra. Nhà mụ Điếc nuôi lợn, có thùng gom nước gạo lẫn thức ăn thừa, thứ nước ấy giờ long tong chảy trên mặt lão Hoán. Tóc tai lão nhoe nhoe mẩu rau dưa, mảnh xương cá… Mùi chua khẳm. Lão co mồm văng tục, thì sực nhớ, im thít.&lt;/p&gt;
-
-&lt;p&gt;Y và lão lách ra. Lão Hoán cuống vấp dúi dụi, chân sục vào cống.&lt;/p&gt;
-
-&lt;p&gt;Ra khỏi ngách, trông lão Hoán như ngợm. Y bảo: “Hành trình tìm tòi cái đẹp gian khổ quá bố nhỉ!” Lão than: “Tao mới chỉ thấy gian khổ, chứ đã kịp thấy tí tẹo đẹp nào đâu!”&lt;/p&gt;
-
-&lt;p&gt;Lão Hoán cởi truồng bên bể nước trong sân, lão vừa múc nước dội người, vừa lẩm bẩm rủa Ngà là đồ cứt trâu. Đang tắm thì Ngà đến ngoài cổng chửi.&lt;/p&gt;
-
-&lt;p&gt;Ngà cầm kéo, miệng chửi, tay vung vẩy kéo đánh nhịp, réo đích danh “thằng Hoán”. Ngà bảo sẽ thiến con dê già, sẽ nhét đầu con dê già vào chỗ tối tăm của “cái đẹp”. Có hai con chó chầu chực đấy cũng góp mồm sủa.&lt;/p&gt;
-
-&lt;p&gt;Cánh cổng chỉ có chiếc ổ khóa không bấm móc hờ lỗ chốt, Ngà thò tay tìm cách mở…&lt;/p&gt;
-
-&lt;p&gt;Lão Hoán ôm háng khư khư, mặt mũi nhớn nhác.&lt;/p&gt;
-
-&lt;p&gt;Y nấp trong nhà nhòm ra. Y cũng chẳng muốn chạm mặt Ngà!&lt;/p&gt;
-
-&lt;p&gt;Ở góc sân có bức tường, phía bên kia là con đường chạy dọc sông Tô Lịch, y lẻn ra, trèo lên tường. Lão Hoán chạy lại níu chân y, nói: “Mày mày… mày phải ở lại làm chứng là tao chưa kịp thấy tẹo gì của nó!” Y bảo: “Nó có kéo, con làm chứng cho bố để nó xẻo của con à!” Lão Hoán chửi: “Loại mày nghệ sĩ cái cục cứt, hèn lắm!” Thấy y chuẩn bị nhảy xuống bên kia tường, lão Hoán hớt hải: “Thôi thôi mày kéo cho tao lên với!” Lúc ngồi được lên tường, lão lập cập: “Bọn mình cùng nghệ sĩ hoạn nạn đừng bỏ nhau!”&lt;/p&gt;
-
-&lt;p&gt;Ngà đã mở được cổng, đang vào.&lt;/p&gt;
-
-&lt;p&gt;Y nhảy xuống con đường ven sông Tô Lịch. Phía xa có mấy bà đồng nát tong tẩy đi lại… Lão Hoán không dám nhảy theo vì chưa mặc quần. Lão bò lổm ngổm trên tường, cục bìu ve vẩy như tai voi, đến cuối tường có cái ống máng thì lão đu người leo. Trên đó là trần nhà mụ Điếc.&lt;/p&gt;
-
-&lt;p&gt;Sâm sẩm tối, y mò về nhà. Một lát, thấy lão Hoán mặc cái quần lửng hoa từ trên tường trèo xuống, ở nhà bên kia tiếng Ngà đang réo: “Bà Điếc ơi, bà Điếc ơi…” Ngà gắt: “Đến giờ ghi lô rồi mà cái nhà bà này lại biến đi đâu không biết?!”&lt;/p&gt;
-
-&lt;p&gt;Buổi tối, y và lão Hoán uống rượu. Lão vừa uống vừa cười lủm mủm. Rồi lão kể.&lt;/p&gt;
-
-&lt;p&gt;… Trần nhà mụ Điếc có mấy tấm chăn đang phơi, lão liền chui vào. Vừa vén chăn lên thì gặp mụ Điếc.&lt;/p&gt;
-
-&lt;p&gt;Mụ này vốn nấp trong chăn nhòm lão Hoán tắm; lúc lão và y trèo tường, do khuất, mụ không biết… Giờ, đột nhiên, thấy lão đứng cạnh, cởi truồng.&lt;/p&gt;
-
-&lt;p&gt;Mụ Điếc “ối giời ơi”, mụ vơ cái gáo nhựa úp vào mặt. Lão cuống, lão giật cái gáo trên mặt mụ Điếc đem úp vào háng. Mụ Điếc chẳng vừa, liền giằng lại gáo đem úp lại mặt… Lão bèn kéo thốc mụ vào căn chòi chứa đồ cũ.&lt;/p&gt;
-
-&lt;p&gt;Mụ Điếc kêu: “Làng nước ơi, Hoán già hiếp tôi làng nước ơi!…” Lão nói: “Lạy bà, bà mà kêu thế thì người nhà bà thịt tôi như ngan như vịt à!” Mụ Điếc giơ hai nách lên ngửi, rồi mụ gí nách vào mũi lão bảo: “Thịt thế này mà hôi như ngan như vịt à!” Lão cãi: “Tôi bảo là bà nhỏ mồm kẻo con Ngà nó thịt tôi, chứ đâu mà bảo bà hôi!” Mụ Điếc “Thế à thế à.”, rồi mụ thì thầm hỏi: “Cái con Ngà nó đang chửi gì thế hả ông?” Lão không đáp, lão sấn sổ. Mụ liền lí nhí: “Ôi làng nước ơi, Hoán già nó đang… nó đang… hiếp tôi!”…&lt;/p&gt;
-
-&lt;p&gt;Y nghe xong, rót rượu, chắp tay mời lão, nói: “Đáng đời con Ngà. Nó chửi được bọn mình thì bọn mình trị lại mẹ nó. Bố vừa rửa nhục cho đàn ông nước Nam!” Lão Hoán cười hầng hậc: “Thấy tao cao thâm chưa?”, uống cạn, rồi lão vênh váo: “Người xưa bảo bất độc cái gì gì mà phi hảo hán, mày nhỉ?!”&lt;/p&gt;
-
-&lt;p&gt;Chồng Ngà là thằng du côn. Sau hôm vợ bỏ đi, tuyên bố gặp Ngà ở đâu là bẻ răng cắt lưỡi. Ngà nghe kể thì cười khẩy, nhạt.&lt;/p&gt;
-
-&lt;p&gt;Ngà về bên này ở được hai tuần.&lt;/p&gt;
-
-&lt;p&gt;Hôm lão Hoán đi đám về, gặp thằng chồng Ngà đứng ở cổng nhà y nhòm sang nhà mụ Điếc, bộ dạng rất khả nghi. Thấy lão liếc liếc mình, nó hỏi: “Ông lác à?” Lão vội cum cúp lủi.&lt;/p&gt;
-
-&lt;p&gt;Về nhà, lão Hoán thẩn thẩn. Chả hiểu nghĩ ngợi thế nào, rồi lão leo ống máng… Lên tới trần nhà mụ Điếc, lão gọi rón rén: “Bà Điếc ơi!” Không có tiếng trả lời. Lão lại gọi: “Ngà ơi!”&lt;/p&gt;
-
-&lt;p&gt;Cửa trần mở, là Ngà.&lt;/p&gt;
-
-&lt;p&gt;Thấy Ngà, lão Hoán lúng búng: “Tao vừa gặp chồng mày nó đang rình bên cổng nhà tao. Tao… tao… định sang bảo mày trốn…” Ngà nghe, lẳng lặng. Ngà xuống nhà cầm cái chày giấu sau đít, mở cửa đi ra…&lt;/p&gt;
-
-&lt;p&gt;Gặp chồng, Ngà hất hàm: “Muốn gì?”&lt;/p&gt;
-
-&lt;p&gt;Cái thằng du côn ấy thấy vợ thì ú a ú ớ; nghe vợ hỏi, đứng đực; rồi đột ngột nó quỳ thụp, nó rống lên: “Em ơi, em là vàng của anh không có em đời anh chẳng bằng cái rắm chó!…” Mụ Điếc lúc này cũng lăm xăm xách con dao phay từ trong nhà chạy ra. Chồng Ngà đang lem lẻm: “Anh thề với em là anh còn lớ xớ với mấy con vớ vẩn thì…” - thấy mụ Điếc ra, nó giằng luôn mụ vào, nó nói tiếp – “… có cả mẹ đây làm chứng cho anh, thì… thì điện giật anh nổ, nổ… chết mẹ nó ộc máu!” Mụ Điếc giãy nảy: “Thằng chó kia, mày rủa gì tao ộc máu?!” Ngà phì cười.&lt;/p&gt;
-
-&lt;p&gt;Lão Hoán nghe lỏm trong nhà liền thì thầm với y: “Thề với mụ Điếc sướng mày nhỉ! Mai tao cũng sang tao thề.”&lt;/p&gt;
-
-&lt;p&gt;Ngà về lại với chồng.&lt;/p&gt;
-
-&lt;p&gt;Cũng sau buổi đó lão Hoán hàng ngày qua lại với mụ Điếc, ăn ngủ rất hồn nhiên. Nhưng hễ thấy bóng Ngà là lão lủi nhanh như lươn.&lt;/p&gt;
-
-&lt;p&gt;Hôm lão Hoán và mụ Điếc đang ăn cơm, đúng lúc ấy vợ chồng Ngà sang, lão không kịp tránh. Chồng Ngà tóm chịt lão Hoán bắt ngồi lại, nó bảo: “Ai khinh thằng này thì cứ bước khỏi cửa!” Lão sợ lập cập, mặt xám ngoét.&lt;/p&gt;
-
-&lt;p&gt;Thằng chồng Ngà lôi trong túi ra chai rượu và bọc lòng lợn bày lên mâm. Y đi ngang, nó thấy, liền lôi vào cùng ngồi. Xong nó tuyên bố với cả nhà là vừa làm được vợ chửa.&lt;/p&gt;
-
-&lt;p&gt;Chồng Ngà rót rượu ra mấy chén, bắt lão Hoán và mụ Điếc cụng riêng. Lúc nó cụng với lão Hoán thì bảo: “Con kính cụng đại ca!” Trông như diễn tuồng. Ngà đang mang thai, không uống rượu, thấy chồng với lão Hoán bá vai bá cổ thân mật, nguýt: “Cái lũ đàn ông nhà này toàn đồ chập cheng!”&lt;/p&gt;
-
-&lt;p&gt;Lão Hoán chân khẳng khiu, quần đùi rộng, lại nhàu như lò xo, lúc ngồi ăn chim thòi ra mâm. Ngà trở đầu đũa gắp chim lão Hoán, bảo: “Tưởng miếng thịt!” Lão hoảng, bật nhỏm dậy, cộc đầu vào thành máy khâu. Chồng Ngà đang kê chén rượu lên miệng, đổ oạch ra cười sặc sụa, sùng sục ho. Mụ Điếc bảo: “Con đĩ kia sao mày vô duyên thế!”&lt;/p&gt;
-
-&lt;p&gt;Vợ chồng Ngà về rồi, còn lão Hoán ngồi thủm lủm xó nhà ngắm mụ Điếc dọn bát đũa, mắt mày rất tình tứ. Y bảo: “Bên này giờ tha hồ ấm cúng, nhỉ!” Lão gật, mắt hấp háy, giống hệt người tử tế. Y lại bảo: “Cái mắt mụ Điếc khéo mà cũng giống con Ngà, bố cứ ngồi hớ hênh, mụ lại trông nhầm thành cuộn chỉ rối, cho mẹ nó nhát kéo… Hoán có mà thành Hoạn.” Mụ Điếc đang bê mâm, thấy y và lão Hoán nhăn nhăn nhở nhở cười thì ve vẩy cười theo. Rồi mụ lẩm bẩm: “Hai thằng chó này chắc lại vừa nói gì đểu.”&lt;/p&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">Nghề nghiệp của y là vẽ tranh.</summary></entry><entry><title type="html">Đàn ông đàn bà</title><link href="http://localhost:4000/2020/09/20/DanOngDanBa.html" rel="alternate" type="text/html" title="Đàn ông đàn bà" /><published>2020-09-20T21:58:23+07:00</published><updated>2020-09-20T21:58:23+07:00</updated><id>http://localhost:4000/2020/09/20/DanOngDanBa</id><content type="html" xml:base="http://localhost:4000/2020/09/20/DanOngDanBa.html">&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Đàn ông thằng nào cũng chó!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ơ kìa! Tao là đàn ông đấy nhé!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kệ mày! Nhưng đàn ông thằng nào cũng chó!&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thị nâng chén rượu. Thị tợp một hơi. Y nhặt miếng thịt gà nướng, đưa thị. Thị cầm miếng thịt rồi lại đặt xuống, với tay lấy chai rượu, thị rót đầy chén:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cứ nhớ lại là tao buồn nôn, tao thù, mày ạ! Nó phang nhau trước mũi mình!… Một lũ phản trắc!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Y cười, y trêu:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tại ai cơ nhỉ? Đứa nào từng nói “Osin mặt mũi phải sáng sủa, phải nhanh nhảu mồm miệng, phải làm mát mặt chủ nhà”?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thị không đáp lời y, thị đăm đăm nhìn chén rượu, một lát giọng thị chùng:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ba giờ sáng, tao quờ tay sang bên, thấy trống, tao tưởng lão đi đái. Mười lăm phút sau không thấy lão lên, tao mới xuống nhà, qua phòng con osin, chúng nó vần nhau ư ử ư ử, rồi con kia kêu “Chú ơi, cháu sướng!” - thị tru giọng lên nhại.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Y nghe chuyện này không phải lần đầu, nhưng hễ hai đứa ngồi với nhau, có rượu vào, thị lại kể lại. Y đùa:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Thì mày cũng nên tự trách mình, sao không tám chín giờ sáng hẵng tỉnh như mọi bữa thì có phải vợ chồng vẫn vui! Là do mày dở hơi, ba giờ sáng ai bảo mò dậy…&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Tao biết ngay kiểu nói của chúng mày! Một giuộc cả!… Đàn ông thằng nào cũng chó!&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Y rót thêm rượu cho thị, hỏi:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Từ hồi vợ chồng bỏ nhau, thằng cu nhà mày có hay nhắc bố nó không?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thị không đáp.&lt;/p&gt;
-
-&lt;p&gt;Hồi lâu, y nói:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Trông mày ngon lắm! Càng già càng xinh!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thị cười:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mày định đong cả tao à?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cũng chưa biết…!&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thị không để tâm lời y, đôi mắt thị mơ mơ, rồi đột nhiên thị giật tay y, tủm tỉm:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Này, mà hắn ga lăng lắm mày ạ!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hắn nào nhỉ?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mày lại quên rồi! Cái thằng cha mà đợt trước tao kể ý.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ừ! Thì sao?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mày bảo có nên không?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Nên gì?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Nên gì còn phải hỏi!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Vợ hắn đâu?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Nghe bảo đang ly thân!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hắn giàu không?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hắn giàu lắm!… Mà hắn lại ga lăng, mà hắn quái quái… mà thằng bé nhà tao cũng quý hắn!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ừ!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hôm trước hắn còn đọc tao nghe thơ hắn nữa! Thơ buồn cười lắm, gì gì mà “triết học đối diện em/triết học tụt quần đùi…”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ừ!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Nhưng thơ kiểu ấy hay không mày?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ừ!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mày thì cái gì cũng “ừ”. Thằng nào chỉ cốt qua chuyện cũng “ừ”! Đàn ông đứa nào cũng chó!…&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">Đàn ông thằng nào cũng chó!</summary></entry><entry><title type="html">Một chuyện tình</title><link href="http://localhost:4000/2020/09/20/MotChuyenTinh.html" rel="alternate" type="text/html" title="Một chuyện tình" /><published>2020-09-20T21:56:14+07:00</published><updated>2020-09-20T21:56:14+07:00</updated><id>http://localhost:4000/2020/09/20/MotChuyenTinh</id><content type="html" xml:base="http://localhost:4000/2020/09/20/MotChuyenTinh.html">&lt;p&gt;Một dạo y thuê xưởng vẽ ở khu Thành Công, vốn chỗ đấy trước là bãi rác của thành phố nằm dọc đoạn sông Tô Lịch tù hãm. Ở đây, y gặp u Mẳn. U đẹp lão, tính hay chửi, hay cười. Nhìn chung là người dễ chơi.&lt;/p&gt;
-
-&lt;p&gt;U Mẳn ngoài bảy mươi, buổi trưa nhà u bán cơm bụi, chiều bán nước. Ở cái loại hình dịch vụ đậm chất hè phố này, được gọi “u” cũng là sự khẳng định tính chuyên nghiệp. Y thường ăn cơm hàng u. Nhiều bữa ghi sổ, cũng vô tư.&lt;/p&gt;
-
-&lt;p&gt;Chồng mất đã ngoài năm năm, u vẫn ở vậy, quyết thủ tiết. Y nịnh u: “Đời nay ong ve cám dỗ nhiều, còn ngon nghẻ như u mà có cái đức chính chuyên là quý lắm!” U bảo: “Tổ cha mày, tao xây nhà sáu tấm, rồi lấy chồng khác luôn! U Mẳn có cô cháu gái xinh, ngoài đôi mươi, vẫn phụ u bán cơm. Mắt em dài, làn môi mảnh mọng. Y nói với em: “Cái môi này là chúa nhẹ dạ!” Em cười, mắt nhóng nhánh, say say, em bảo: “Kệ!” Y ỡm ờ: “Nhưng ai ăn son trên môi này thì lại ngọt.” Đuôi mắt em thoắt quăng vào y. Em cong môi bảo: “Điêu.” Ôi! Cái miệng em duyên tệ! Thoáng phải lòng sao yêu yêu…!&lt;/p&gt;
-
-&lt;p&gt;Y ăn cơm đĩa. Cứ mỗi miếng, y lại thổm miệng về phía em đớp đớp. Y bảo: “Cắn tí hình ảnh em, là cho thêm mì chính, tí ớt.” Em kéo mắt lại phía y. Đuôi mắt em và y ngoắc cứng. Cộc ngón tay vào trán y, em bảo: “Ghét cái miệng họa sĩ tẩm đường!” Y hỏi: “Nhà em đang giã cua à?” Em ngơ ngác: “Đâu!” Y nói: “Rõ là có tiếng thình thịch!” Em cãi: “Tiếng đâu mà tiếng?” Y chợt ôm ngực, bảo: “Ồ nhầm! Được em gõ đầu, nên tim anh nó đập như loa thùng, anh tưởng…!” Em che miệng cười. Đuôi mắt dài thêm, đan vào đuôi mắt y như lưới.&lt;/p&gt;
-
-&lt;p&gt;U Mẳn ngồi nghe, u cười. Cái mẩu tình nhỏ vụn trong veo veo…&lt;/p&gt;
-
-&lt;p&gt;Một ngày, gặp em, y chìa tờ đơn, y bảo: “Em ký nhé.” Em ngước mắt hỏi: “Ký gì cơ?” Y bẽn lẽn: “Đọc thì biết!” Em mở, em xem:&lt;/p&gt;
-
-&lt;p&gt;Cộng hòa Xã hội Chủ nghĩa Việt Nam&lt;/p&gt;
-
-&lt;p&gt;Độc lập - Tự do - Hạnh phúc&lt;/p&gt;
-
-&lt;p&gt;ĐƠN XIN ĐƯỢC YÊU&lt;/p&gt;
-
-&lt;p&gt;Kính gửi em!&lt;/p&gt;
-
-&lt;p&gt;Tên anh là Nguyên. Làm nghề bôi màu.&lt;/p&gt;
-
-&lt;p&gt;Sau một thời gian rình rập đeo bám, khi chủng chẳng, khi quyết liệt, anh viết lá đơn này để bày tỏ tình yêu đối với em…&lt;/p&gt;
-
-&lt;p&gt;Giấy ngắn tình dài, bút cùn mực cạn, tả sao xiết nỗi!&lt;/p&gt;
-
-&lt;p&gt;Mà em nhận lời thì ký vào đây cho một chữ, coi như cái tình mình được văn bản hóa. Kính mo.&lt;/p&gt;
-
-&lt;p&gt;Em cười, vẩy vẩy đánh y. Mắt em thíp thịp, mọc hàng trăm cái đuôi.&lt;/p&gt;
-
-&lt;p&gt;Trời ơi! Lòng đàn bà giả dối khôn lường. Đành rằng hôm ấy em không sẵn bút để ký, nhưng em cũng gí cái ngón tay dính mỡ gà điểm chỉ vào đơn! Thế mà hóa em đã thủ sẵn từ trước một kẻ để lấy làm chồng. Kẻ đấy lại không phải là y!&lt;/p&gt;
-
-&lt;p&gt;Em sang sông…&lt;/p&gt;
-
-&lt;p&gt;Y thẫn thờ, nhìn dòng Tô Lịch bé như con mương tù. Nếu không vì cái biển “Cấm đổ rác”, có lẽ y đã nhảy tòm xuống, cho đời biết mối tình y oanh oanh liệt liệt.&lt;/p&gt;
-
-&lt;p&gt;Người mộng xa. Em theo chồng, em có nhớ…&lt;/p&gt;
-
-&lt;p&gt;Ngẩn ngơ. Rồi đột nhiên y thấy cay cú. Y hận em. Mà không hận làm sao được. Em đã nhận lời yêu y. Có giấy trắng mực đen làm chứng.&lt;/p&gt;
-
-&lt;p&gt;Không! Quyết vụ này phải làm ra nhẽ. Gáo hay muôi thì cũng cần rõ ràng. Y lục lá đơn mang đến hàng u Mẳn.&lt;/p&gt;
-
-&lt;p&gt;Gặp u, giọng y xẵng: “U! Bắt đền!”&lt;/p&gt;
-
-&lt;p&gt;U hỏi: “Đền gì?”&lt;/p&gt;
-
-&lt;p&gt;Y chìa lá đơn xin yêu còn lưu vết điểm chỉ mỡ gà, y nói: “Cháu gái u lừa của con cục tình!”&lt;/p&gt;
-
-&lt;p&gt;U bảo: “Có mà có cái mặt mày, tao phải gả cháu tao đi cho sớm ý!”&lt;/p&gt;
-
-&lt;p&gt;Y sấn sổ: “Kệ! Thằng này không biết. U có bắt đền không thì nói!”&lt;/p&gt;
-
-&lt;p&gt;U cười, rõ cái kiểu cười trừ, cười cho qua chuyện. U đưa y chén nước: “Thằng dở hơi! Đền đấy, uống đi!” Đời nào y chịu. Dễ mà bỏ qua! Y bảo: “Không uống! Đền tình cơ!”&lt;/p&gt;
-
-&lt;p&gt;Đoạn, y tóm chịt tay u Mẳn đang chìa chén nước. Rồi nói nhanh, nói dài, nói say đắm:&lt;/p&gt;
-
-&lt;p&gt;“Mẳn em… à mà quên! Mẳn u! Hôm nay con chính thức ngỏ lời yêu u. Con muốn cùng u tính chuyện trăm năm, nên duyên cầm sắt!… Đời kiếp này con xin nguyện cùng u son sắt, má áp vai kề, chia ngọt sẻ bùi, chia củ hành, chia củ tỏi…”&lt;/p&gt;
-
-&lt;p&gt;Đáp lại lời y, u cười nhằng nhặc. U chửi: “Tổ cha mày!”&lt;/p&gt;
-
-&lt;p&gt;Rồi u ho…&lt;/p&gt;
-
-&lt;p&gt;Y hiểu lắm, ho là cái thẹn của ái tình!&lt;/p&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">Một dạo y thuê xưởng vẽ ở khu Thành Công, vốn chỗ đấy trước là bãi rác của thành phố nằm dọc đoạn sông Tô Lịch tù hãm. Ở đây, y gặp u Mẳn. U đẹp lão, tính hay chửi, hay cười. Nhìn chung là người dễ chơi.</summary></entry><entry><title type="html">Truyện ngắn</title><link href="http://localhost:4000/2020/09/20/TruyenNgan.html" rel="alternate" type="text/html" title="Truyện ngắn" /><published>2020-09-20T21:55:08+07:00</published><updated>2020-09-20T21:55:08+07:00</updated><id>http://localhost:4000/2020/09/20/TruyenNgan</id><content type="html" xml:base="http://localhost:4000/2020/09/20/TruyenNgan.html">&lt;p&gt;“Cái tinh thần hài hước đậm chất phồn thực, cái sắc bén tỉ mỉ trong quan sát, mà đằng sau câu chữ chặt ra chặt thái ra thái ấy tôi luôn cảm thấy độ mong manh của một tâm hồn cưu mang lắm nỗi chắc chắn sẽ cắm được một giới hạn nữa trên tiến trình vận động của văn học nước nhà, nếu như tác giả…”&lt;/p&gt;
-
-&lt;p&gt;Nhà văn Lê Minh Hà&lt;/p&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">“Cái tinh thần hài hước đậm chất phồn thực, cái sắc bén tỉ mỉ trong quan sát, mà đằng sau câu chữ chặt ra chặt thái ra thái ấy tôi luôn cảm thấy độ mong manh của một tâm hồn cưu mang lắm nỗi chắc chắn sẽ cắm được một giới hạn nữa trên tiến trình vận động của văn học nước nhà, nếu như tác giả…”</summary></entry><entry><title type="html">Mầm nắng</title><link href="http://localhost:4000/2020/09/20/MamNang.html" rel="alternate" type="text/html" title="Mầm nắng" /><published>2020-09-20T21:54:08+07:00</published><updated>2020-09-20T21:54:08+07:00</updated><id>http://localhost:4000/2020/09/20/MamNang</id><content type="html" xml:base="http://localhost:4000/2020/09/20/MamNang.html">&lt;p&gt;Cho Bũm[1]&lt;/p&gt;
-
-&lt;p&gt;Khi ba cầm tờ kết quả siêu âm&lt;/p&gt;
-
-&lt;p&gt;bác sĩ ghi: “Có tiếng tim thai.”&lt;/p&gt;
-
-&lt;p&gt;Trong bụng mẹ, con chỉ mới bằng hạt đỗ.&lt;/p&gt;
-
-&lt;p&gt;Ba đi áp tai tìm tiếng tim con&lt;/p&gt;
-
-&lt;p&gt;dù biết, chẳng thể nào nghe được.&lt;/p&gt;
-
-&lt;p&gt;Thì có sao con nhỉ,&lt;/p&gt;
-
-&lt;p&gt;Ba sẽ nghe tim con trong nhịp trái tim mình!&lt;/p&gt;
-
-&lt;p&gt;Có một thời&lt;/p&gt;
-
-&lt;p&gt;Khi ba viết bài thơ&lt;/p&gt;
-
-&lt;p&gt;về&lt;/p&gt;
-
-&lt;p&gt;những nắng lò cò&lt;/p&gt;
-
-&lt;p&gt;những nắng ú tim&lt;/p&gt;
-
-&lt;p&gt;nắng nghịch, nắng ngoan&lt;/p&gt;
-
-&lt;p&gt;nắng bàng hoa&lt;/p&gt;
-
-&lt;p&gt;nắng sấu…&lt;/p&gt;
-
-&lt;p&gt;Nắng của tuổi thơ chẳng bao giờ biết lớn.&lt;/p&gt;
-
-&lt;p&gt;Thế rồi ba lớn&lt;/p&gt;
-
-&lt;p&gt;Một ngày, ba quên!&lt;/p&gt;
-
-&lt;p&gt;Bụng mẹ kết thành đêm&lt;/p&gt;
-
-&lt;p&gt;Ủ hạt mầm nắng ngủ&lt;/p&gt;
-
-&lt;p&gt;Nơi bầu đêm con thở&lt;/p&gt;
-
-&lt;p&gt;Nắng của đời ba xanh…&lt;/p&gt;
-
-&lt;p&gt;[1] Hồi biết tin có Bũm, ba Nguyên có vài câu thơ lưu trong điện thoại. Vì cứ nghĩ được câu nào thì ghi vào máy câu ấy, nên nó lộn xộn, chẳng có đầu có đuôi. Giờ Bũm đã tám tháng, ba lục những câu thơ hồi ấy, sắp xếp lại thành bài, giữ cho cả ba và Bũm.&lt;/p&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">Cho Bũm[1]</summary></entry></feed>
+&lt;p&gt;Bà Vân Đểnh bơ, làm như không nghe. Lúc về sân, nhìn thấy mụ Thấn, miệng bà sắt lại. Việc phát giác ông Xích trong đám tụ bạ xem phim sex lần này tất cả là tội của mụ Thấn!&lt;/p&gt;</content><author><name>Đinh Vũ Hoàng Nguyên</name></author><summary type="html">Ông Cứ đi thu tiền ủng hộ đồng bào miền Trung bị lũ lụt. Qua nhà Hồng Cối bán bún chả, vợ Hồng Cối nói:</summary></entry></feed>

@@ -5,13 +5,25 @@ title: Blog
 
 <div class="sub-container">
   </br>
-  <h1 class="title">Latest Posts</h1>
-  <ul>
-    {% for post in site.posts reversed limit:2000%}
-      <li>
-        <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        {{ post.excerpt }}
-      </li>
-    {% endfor %}
-  </ul>
+  <h1 class="title text-center" style="opacity: 80%;">Latest Posts</h1>
+  <div class="container">
+    <ul>
+      {% for post in site.posts reversed limit:2000%}
+        <!-- <li>
+          <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          {{ post.excerpt }}
+        </li> -->
+        <div class="card mb-4">
+          <img class="card-img-top" width=750 height=450 src="https://s3-ap-southeast-1.amazonaws.com/images.spiderum.com/sp-images/0b24d69068d011e8b9d4915e504aa742.png" alt="Card image cap" />
+          <div class="card-body">
+            <a href="{{ post.url }}"><h2 class="card-title">{{post.title}}</h2></a>
+              <p class="card-text">{{ post.excerpt }}</p>
+          </div>
+          <!-- <div class="card-footer text-muted">
+              Posted on July 28 2020
+          </div> -->
+        </div> 
+      {% endfor %}
+    </ul>  
+  </div>
 </div>
